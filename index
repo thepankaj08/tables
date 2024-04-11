@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Tables Exercise</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column; /* Stack elements vertically */
+            align-items: center; /* Center elements horizontally */
+            justify-content: center; /* Center elements vertically */
+            height: 100vh;
+        }
+        #question {
+            text-align: center;
+            font-size: 100px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        #options {
+            display: flex;
+            justify-content: center;
+            gap: 10px; /* Adjust the gap between options */
+        }
+        .option {
+            padding: 20px 40px;
+            border: 2px solid #aaccff;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 40px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        .option:hover {
+            background-color: #aaccff;
+            color: #fff;
+        }
+        .correct {
+            background-color: lightgreen;
+        }
+        .incorrect {
+            background-color: tomato;
+        }
+    </style>
+</head>
+<body>
+    <div id="question"></div>
+    <div id="options">
+        <div class="option" id="option1" data-value="1"></div>
+        <div class="option" id="option2" data-value="2"></div>
+        <div class="option" id="option3" data-value="3"></div>
+    </div>
+
+    <script>
+        var correctOption;
+
+        // Function to generate a random number between min and max (inclusive)
+        function getRandomInt(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min;
+        }
+
+        // Function to generate a random multiplication question for tables 11 to 19
+        function generateQuestion() {
+            var table = getRandomInt(11, 19);
+            var multiplier = getRandomInt(1, 10);
+            var answer = table * multiplier;
+            
+            // Choose one option as correct answer
+            var correctOptionIndex = getRandomInt(0, 2);
+            var correctAnswer = answer;
+            var incorrectOptions = [answer + getRandomInt(1, 10), answer - getRandomInt(1, 10)];
+
+            // Ensure options are unique
+            var options = [correctAnswer];
+            incorrectOptions.forEach(option => {
+                while (options.includes(option)) {
+                    option += getRandomInt(1, 10); // Add a random value to ensure uniqueness
+                }
+                options.push(option);
+            });
+
+            // Shuffle options
+            options = shuffle(options);
+
+            document.getElementById('question').innerText = table + " x " + multiplier;
+            document.getElementById('option1').innerText = options[0];
+            document.getElementById('option2').innerText = options[1];
+            document.getElementById('option3').innerText = options[2];
+            correctOption = options.indexOf(correctAnswer) + 1; // Find index of correct answer
+        }
+
+        // Function to shuffle an array
+        function shuffle(array) {
+            for (var i = array.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+            return array;
+        }
+
+        // Function to check the selected option
+        function checkAnswer(selectedOption) {
+            selectedOption = parseInt(selectedOption); // Convert to number
+            if (selectedOption === correctOption) {
+                document.getElementById('option' + selectedOption).classList.add('correct');
+                setTimeout(function() {
+                    document.getElementById('option' + selectedOption).classList.remove('correct');
+                    generateQuestion();
+                }, 1000); // Move to the next question after 1 second
+            } else {
+                document.getElementById('option' + selectedOption).classList.add('incorrect');
+                setTimeout(function() {
+                    document.getElementById('option' + selectedOption).classList.remove('incorrect');
+                }, 1000); // Remove incorrect color after 1 second
+            }
+        }
+
+        // Event listener for option clicks
+        document.querySelectorAll('.option').forEach(option => {
+            option.addEventListener('click', function() {
+                checkAnswer(parseInt(this.getAttribute('data-value')));
+            });
+        });
+
+        // Generate the first question when the page loads
+        generateQuestion();
+
+        const confetti = new Confetti("");
+        // Confetti configuration
+        confetti.setCount(50);
+    </script>
+    <script src="https://confettijs.org/confetti.min.js"></script>
+</body>
+</html>
