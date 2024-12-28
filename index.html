@@ -89,24 +89,40 @@
             border-radius: 5px;
             padding: 5px 10px 5px 10px;
         }
-    </style>
-    <script src="https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.17.1/firebase-database.js"></script>
+        .scoreboard {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 150px;
+            padding: 15px;
+            background-color: #f4f4f4;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            font-family: 'Poppins', Arial, sans-serif;
+        }
 
+        .scoreboard h3 {
+            margin: 0;
+            font-size: 20px;
+            color: #333;
+        }
+
+        .scoreboard p {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
 </head>
 <body>
-    <div id="userIDInput" style="text-align: center; margin-bottom: 20px;">
-        <label for="userID">Enter User ID (optional):</label>
-        <input type="text" id="userID" placeholder="e.g., user123" />
-        <button onclick="startQuiz()">Start Quiz</button>
-    </div>
-    <div id="scoreboard" style="margin-top: 20px; text-align: center;">
-        <h3>Scoreboard</h3>
-        <p>Total Attempted: <span id="totalAttempted">0</span></p>
-        <p>Correct Answers: <span id="correctAnswers">0</span></p>
-        <p>Wrong Answers: <span id="wrongAnswers">0</span></p>
-    </div>
 
+    <div class="scoreboard">
+        <h3>SCORE</h3>
+        <p>Total: <span id="totalScore">0</span></p>
+        <p>Right: <span id="rightScore">0</span></p>
+        <p>Wrong: <span id="wrongScore">0</span></p>
+    </div>
 
 <div class="quiz-container">
     <h1>Quiz App</h1>
@@ -128,7 +144,6 @@
     </div>
 
     <div class="controls">
-        <button onclick="resetUserProgress()">Reset Progress</button>
         <button onclick="prevQuestion()">Previous</button>
         <button onclick="nextQuestion()">Next</button>
         <button onclick="randomQuestion()">Random</button>
@@ -138,67 +153,39 @@
 </div>
 
 <script>
-    // Firebase configuration
-    const firebaseConfig = {
-        apiKey: "AIzaSyCOr-Wzlh7KuQtl22zuv82P64fpAH3Mlic",
-        authDomain: "quiz-c6e82.firebaseapp.com",
-        databaseURL: "https://quiz-c6e82-default-rtdb.firebaseio.com",
-        projectId: "quiz-c6e82",
-        storageBucket: "quiz-c6e82.firebasestorage.app",
-        messagingSenderId: "942915077506",
-        appId: "1:942915077506:web:dc38f558c5a326c7e47b9b",
-        measurementId: "G-J99771SJCT"
-    };
-
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
-    const database = firebase.database();
-
-    let userID = "";
-    let scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+    
     let questions = [];
     let currentQuestionIndex = 0;
 
-    // Start quiz with or without User ID
-    function startQuiz() {
-        const input = document.getElementById("userID").value.trim();
-
-        if (input) {
-            userID = input;
-            alert(`Welcome back, User ID: ${userID}`);
-            loadUserProgress(userID);
-        } else {
-            userID = ""; // No ID, no saving progress
-            alert("Playing without saving progress. Enter a User ID next time to track progress.");
-            resetScoreboard();
-        }
-    }
-
-    async function loadQuiz() {
+    function loadQuiz() {
         const selectedJSON = document.getElementById('jsonSelector').value;
 
-        try {
-            const response = await fetch(selectedJSON);
-            if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
-
-            questions = await response.json();
-            currentQuestionIndex = 0;
-            displayQuestion();
-        } catch (error) {
-            console.error('Failed to load quiz:', error);
-            alert('Failed to load quiz. Check console for details.');
-        }
+        fetch(selectedJSON)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(jsonData => {
+                questions = jsonData;
+                currentQuestionIndex = 0;
+                displayQuestion();
+            })
+            .catch(error => alert('Failed to load quiz: ' + error.message));
     }
 
     function displayQuestion() {
         if (currentQuestionIndex < 0 || currentQuestionIndex >= questions.length) return;
 
         const question = questions[currentQuestionIndex];
+
         document.getElementById('questionNumber').textContent = `Question ${question.question_id}`;
         document.getElementById('questionText').textContent = question.question;
 
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
+
         question.options.forEach((option, index) => {
             const button = document.createElement('button');
             button.textContent = option;
@@ -211,53 +198,49 @@
         const question = questions[currentQuestionIndex];
         const correctOption = parseInt(question.correct_option, 10);
 
-        scoreData.totalAttempted++;
-        if (selectedOption === correctOption) {
-            scoreData.correctAnswers++;
-        } else {
-            scoreData.wrongAnswers++;
+        const optionsContainer = document.getElementById('optionsContainer');
+        Array.from(optionsContainer.children).forEach((button, index) => {
+            button.classList.remove('correct', 'wrong');
+            if (index + 1 === correctOption) {
+                button.classList.add('correct');
+            } else if (index + 1 === selectedOption) {
+                button.classList.add('wrong');
+            }
+        });
+    }
+
+    function prevQuestion() {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            displayQuestion();
         }
-
-        saveUserProgress();
-        updateScoreboard();
     }
 
-    function saveUserProgress() {
-        if (!userID) return;
-        const userData = { ...scoreData, lastQuestionIndex: currentQuestionIndex };
-        firebase.database().ref('users/' + userID).set(userData);
+    function nextQuestion() {
+        if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+            displayQuestion();
+        }
     }
 
-    function loadUserProgress(id) {
-        if (!id) return;
-        firebase.database().ref('users/' + id).get()
-            .then(snapshot => {
-                if (snapshot.exists()) {
-                    const userData = snapshot.val();
-                    scoreData.totalAttempted = userData.totalAttempted || 0;
-                    scoreData.correctAnswers = userData.correctAnswers || 0;
-                    scoreData.wrongAnswers = userData.wrongAnswers || 0;
-                    currentQuestionIndex = userData.lastQuestionIndex || 0;
-                    updateScoreboard();
-                    displayQuestion();
-                } else {
-                    resetScoreboard();
-                }
-            });
-    }
-
-    function updateScoreboard() {
-        document.getElementById("totalAttempted").textContent = scoreData.totalAttempted;
-        document.getElementById("correctAnswers").textContent = scoreData.correctAnswers;
-        document.getElementById("wrongAnswers").textContent = scoreData.wrongAnswers;
-    }
-
-    function resetScoreboard() {
-        scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
-        currentQuestionIndex = 0;
-        updateScoreboard();
+    function randomQuestion() {
+        currentQuestionIndex = Math.floor(Math.random() * questions.length);
         displayQuestion();
     }
+
+    function jumpToQuestion() {
+        const jumpInput = document.getElementById('jumpInput');
+        const questionNumber = parseInt(jumpInput.value, 10);
+        if (questionNumber >= 1 && questionNumber <= questions.length) {
+            currentQuestionIndex = questionNumber - 1;
+            displayQuestion();
+        } else {
+            alert('Invalid question number');
+        }
+    }
+
+    // Load the default quiz on page load
+    loadQuiz();
 </script>
 
 </body>
