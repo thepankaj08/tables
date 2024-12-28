@@ -1,0 +1,3632 @@
+[
+    {
+        "question_id": "1",
+        "question": "1. He said, “Ravi, why are you sounding so depressed today?”",
+        "options": [
+            "(1) He asked Ravi why did he sound so depressed that day.",
+            "(2) He asked Ravi why he was sounding so depressed that day.",
+            "(3) He told Ravi why he sounded so depressed today.",
+            "(4) He asked Ravi that why was he sounding so depressed that day."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "2",
+        "question": "2. He asked me, “What time will the sun set tomorrow ?”",
+        "options": [
+            "(1) He asked me what time does the sun set the next day.",
+            "(2) He asked me what time the sun would set tomorrow.",
+            "(3) He asked me what time the sun would set the next day.",
+            "(4) He asked me what time would the sun set the next day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "3",
+        "question": "3. “Tinu, where have you been all these days ?” asked the Principal.",
+        "options": [
+            "(1) The Principal asked Tinu where he had been all those days.",
+            "(2) The Principal asked Tinu where he has been all those days.",
+            "(3) The Principal asked Tinu where had he been all those days.",
+            "(4) The Principal asked to Tinu where was he all those days."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "4",
+        "question": "4. “Have you finished your assign’ ment, Minu ?” said her brother.",
+        "options": [
+            "(1) Minu’s brother asked Minu if you have finished your assignment.",
+            "(2) Minu’s brother said to Minu if she had finished her assignment.",
+            "(3) Minu’s brother asked her if she had finished her assignment.",
+            "(4) Minu’s brother asked Minu if she has finished her assignment"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "5",
+        "question": "5. He says, “I go for a walk every  morning.”",
+        "options": [
+            "(1) He says that he goes for a walk every morning.",
+            "(2) He said that he used to go for a walk every morning",
+            "(3) He said that he goes for a walk every morning.",
+            "(4) He says he went for a walk every morning."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "6",
+        "question": "6. The Principal said, “Why didn't  you attend the flag hoisting ceremony, Anuj ?”",
+        "options": [
+            "(1) The Principal asked Anuj why hadn't he attended the flag hoisting ceremony.",
+            "(2) The Principal asked to Anuj why he hadn't attended the flag hoisting ceremony.",
+            "(3) The Principal asked Anuj why didn't he attend the flag hoisting ceremony.",
+            "(4) The Principal asked Anuj why he didn't attend the flag hoisting ceremony."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "7",
+        "question": "7. I said to him, “Where have you  lost the pen I brought for you  yesterday ?”",
+        "options": [
+            "(1) I asked him where he had lost the pen I had brought him yesterday.",
+            "(2) I asked him where he had lost the pen I have brought for him the previous day.",
+            "(3) I asked him where he had lost the pen I had brought for him the previous day.",
+            "(4) I asked him where had he lost the pen I had brought him the previous day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "8",
+        "question": "8. He said, “Garima wants to take  up a job while her husband  wants her to look after the family.”",
+        "options": [
+            "(1) He said that Garima wanted to take up a job while her husband wanted her to look after the family.",
+            "(2) He said that Garima wants to take up a job while her husband wanted her to look after the family.",
+            "(3) He told that Garima wanted to take up a job while her husband wants her to look after the family.",
+            "(4) He said to Garima that though she wanted to take up a job while her husband wanted her to look after the family."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "9",
+        "question": "9. She said, “When I was a child, I  wasn’t afraid of ghosts.”",
+        "options": [
+            "(1) She said that when she was achild she wasn't not afraid of ghosts.",
+            "(2) She said that when she was a child she hadn't been afraid of ghosts.",
+            "(3) She said that when she was a child she wasn’t afraid of ghosts.",
+            "(4) She said that when she had been a child she wasn't afraid of ghosts."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "10",
+        "question": "10. He said, “Reena, do you want to  buy a house in Noida ?”",
+        "options": [
+            "(1) He told Reena if she wanted to buy a house in Noida.",
+            "(2) He asked that did she want to buy a house in Noida.",
+            "(3) He asked Reena if she wants to buy a house in Noida.",
+            "(4) He asked Reena if she wanted to buy a house in Noida."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "11",
+        "question": "11. I said to my friend, “Can I borrow your dictionary for one day?”",
+        "options": [
+            "(1) 1 asked my friend if I could borrow his dictionary for one day.",
+            "(2) I asked my friend if I could borrow your dictionary for one day.",
+            "(3) I asked my friend if I can borrow his dictionary for one day.",
+            "(4) I asked my friend that if I can borrow his dictionary for one day."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "12",
+        "question": "12. He said, “Let Hari come with us,  mother. I'll take care of him”.",
+        "options": [
+            "(1) He requested his mother to let Hari come with them as  he will take care of him.",
+            "(2) He informed his mother to let Hari come with them as he would take care of him.",
+            "(3) He told his mother to let Hari come with them as he would take care of him.",
+            "(4) He told to his mother let Hari come with us as he would take care of him."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "13",
+        "question": "13. “No,” said the child, “I won't  kneel, for if I do, I shall spoil  my new pair of trousers.”",
+        "options": [
+            "(1) The child said that he would not kneel for if he did so he will spoil his new pair of trousers.",
+            "(2) The child said that he will not kneel for if he kneels he will spoil his new pair of trousers.",
+            "(3) The child said that he would not kneel for if he did so he would spoil his new pair of trousers.",
+            "(4) The child said that I will not kneel for if he did kneel, he should spoil his new pair of trousers."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "14",
+        "question": "14. The chairman of the selection  committee said, “We shall finalise the rest of our team after  we have selected the skipper.”",
+        "options": [
+            "(1) The chairman of the selection committee told that they would finalise the rest of our team after we have selected the skipper.",
+            "(2) The chairman of the selection committee said that we would finalise the rest of our team after we have selected the skipper.",
+            "(3) The chairman of the selection committee said that they would finalise the rest of their team after they selected the skipper.",
+            "(4) The chairman of the selection committee said that they would finalise the rest of their team after they had selected the skipper."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "15",
+        "question": "15. He said, “Has anybody been  unkind to you ?”",
+        "options": [
+            "(1) He asked me if anybody had been unkind to me.",
+            "(2) He asked me had anybody been unkind to me.",
+            "(3) He asked me if anybody had been unkind to you.",
+            "(4) He asked me if anybody had been unkind to him."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "16",
+        "question": "16. The pilot said, “Please don’t panic  but tighten your seat belts.”",
+        "options": [
+            "(1) The pilot told to the passengers that they should not panic but tighten the seat belts.",
+            "(2) The pilot told the passengers to not panic but to tighten their seat belts instead.",
+            "(3) The pilot told the passengers not to panic but to tighten your seat belts.",
+            "(4) The pilot told the passengers not to panic but to tighten their seat belts."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "17",
+        "question": "17. He said, “Ravi, why are you sounding so depressed today?”",
+        "options": [
+            "(1) He asked Ravi why did he sound so depressed that day.",
+            "(2) He asked Ravi why he was sounding so depressed that day.",
+            "(3) He told Ravi why he sounded so depressed today.",
+            "(4) He asked Ravi that why was he sounding so depressed that day."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "18",
+        "question": "18. “I shall remain here and the tailor won't be able to find me,” said she.",
+        "options": [
+            "(1) She said that she should remain there and the tailor won't be able to find me.",
+            "(2) She said that she should remain there and the tailor would not be able to find her.",
+            "(3) She said that she would remain there and the tailor would not be able to find her.",
+            "(4) She said that, she could remain here and the tailor would not find her."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "19",
+        "question": "19. Mother said, “Gaurav, you will be eligible for voting when you are 18.”",
+        "options": [
+            "(1) Mother told Gaurav he would be eligible for voting when he was 18.",
+            "(2) Mother told Gaurav that he could vote only after 18.",
+            "(3) Mother told Gaurav you will be eligible for voting when you are 18.",
+            "(4) Mother told Gaurav that he would be eligible for voting when he would be 18."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "20",
+        "question": "20. He said, “Bravo 1 You have done  well.",
+        "options": [
+            "(1) He applauded him to say that he had done well.",
+            "(2) He applauded him and said that you have done well.",
+            "(3) He applauded him, saying that he has done well.",
+            "(4) He applauded him, saying that he had done well."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "21",
+        "question": "21. He said to me, “You are getting  lazy day by day.”",
+        "options": [
+            "(1) He informed me that I am getting lazy day by day.",
+            "(2) He told me that I have been getting lazy day by day.",
+            "(3) He told me that I was getting lazy day by day.",
+            "(4) He told me that you were getting lazy day by day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "22",
+        "question": "22. “When will I be able to vote?” I  asked my mother.",
+        "options": [
+            "(1) I asked my mother when would he be able to vote.",
+            "(2) I asked to my mother when I will be able to vote.",
+            "(3) I asked my mother when I would be able to vote.",
+            "(4) I asked my mother when would I be able to vote."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "23",
+        "question": "23. I said, “Father, when will you  buy me a motor cycle ?”",
+        "options": [
+            "(1) I asked my father when will he buy me a motorcycle.",
+            "(2) I asked my father when he will buy me a motor cycle.",
+            "(3) I asked my father when would he buy me a motor cycle.",
+            "(4) I asked my father when he would buy me a motor cycle."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "24",
+        "question": "24. He said to me, “Is there any  possibility of my getting promotion this year?”",
+        "options": [
+            "(1) He asked me if there was any possibility of my getting promotion this year.",
+            "(2) He asked me if there was any possibility of his getting promotion this year.",
+            "(3) He asked me if there was any possibility of his getting promotion that year.”",
+            "(4) He asked me if there is any possibility of his getting promotion this year."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "25",
+        "question": "25. The dealer said, “Either make  your purchases or walk out of  my shop.”",
+        "options": [
+            "(1) The dealer told the customer that he would either make his purchases or walk out of his shop.",
+            "(2) The dealer ordered the customer to make his purchases and walk out of his shop.",
+            "(3)The dealer told the customer  that he should either make his purchases, or walk out of his shop.",
+            "(4) The dealer requested the customer to make his purchases or walk out of his shop."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "26",
+        "question": "26. He said, “I do not wish to see  any of you; go away.”",
+        "options": [
+            "(1) He said that he had not wished to see any of them and ordered them to go away.",
+            "(2) He said that he did not wish to see any of them and ordered them to go away.",
+            "(3)He told that he did not wish to see any of them and ordered them to go away.",
+            "(4)He said that he does not wish to see any of us and ordered us to go away."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "27",
+        "question": "27. He said to us, “Why are you all  sitting about there doing nothing ?”",
+        "options": [
+            "(1) He asked us why are we all sitting about there doing nothing",
+            "(2) He asked us why we are all sitting about there doing nothing.",
+            "(3) He asked us why we were all sitting about there doing nothing.",
+            "(4) He asked us why were we all sitting about there doing nothing."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "28",
+        "question": "28. “May you live long and prosper”,  Said the old lady to her son.",
+        "options": [
+            "(1) The old lady blessed her son with long life and wished him prosperity.",
+            "(2) The old lady prayed for her son’s long life and prosperity.",
+            "(3) The old lady prayed for her son and said that he might live long and prosper.",
+            "(4) The old lady blessed her son and prayed for his long life and prosperity."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "29",
+        "question": "29. “Many happy returns of your  birthday”, we said.",
+        "options": [
+            "(1) We greeted him on his birthday.",
+            "(2) We said that many happy returns of your birthday.",
+            "(3) We wished him many happy returns of his birthday.",
+            "(4) We prayed for many happy returns of his birthday."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "30",
+        "question": "30. “Fie! a soldier and afraid of fighting!” said Babar.",
+        "options": [
+            "(1) Babar exclaimed with surprise that a soldier should be afraid of fighting.",
+            "(2) Addressing a soldier, Babar cursed him that he should be afraid of fighting.",
+            "(3) Babar cursed the soldier who was afraid of fighting.",
+            "(4) Babar cursed and exclaimed that a soldier should not be afraid of fighting."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "31",
+        "question": "31. He said to Sita, “When do you  intend to pay back the money you  borrowed from me ?”",
+        "options": [
+            "(1) He enquired Sita when did she intend to pay back the money she borrowed from him.",
+            "(2) He enquired Sita when she intended to pay back the money she borrowed from him.",
+            "(3) He enquired Sita when she intended to pay back the money she had borrowed from him.",
+            "(4) He enquired when Sita intended to pay back the money she borrowed from him."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "32",
+        "question": "32. “So help me Heaven! “he cried, “I will never steal again”.",
+        "options": [
+            "(1) He wanted Heaven to help him so that he would never steal again.",
+            "(2) He exclaimed to Heaven that he would never steal again.",
+            "(3) He exclaimed Heaven to help him that he would never steal again.",
+            "(4) He called upon Heaven to witness his resolve never to steal again."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "33",
+        "question": "33. She said, “I'll give you Rs. 100 to  keep your mouth shut.”",
+        "options": [
+            "(1) She said that she would give him Rs. 100 to keep his mouth shut.",
+            "(2) She offered him Rs. 100 to keep his mouth shut.",
+            "(3) She suggested to him that she would give him Rs. 100 to keep his mouth shut.",
+            "(4) She proposed that she would give him Rs.100 to keep his mouth shut."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "34",
+        "question": "34. “Doctor”, the patient cried, please  tell me how much time I have.”",
+        "options": [
+            "(1) The patient pleaded the doctor how much time she will have.",
+            "(2) The patient exclaimed to the doctor that how much time she had.",
+            "(3) The patient pleaded with the  doctor to tell her how much time she had.",
+            "(4) The patient cried to the doctor that how much time had she."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "35",
+        "question": "35. “Let’s give a party”, said Jaya.  “Let’s not,” said her husband.",
+        "options": [
+            "(1) Jaya suggested giving a party but her husband answered in the negative.",
+            "(2) Jaya suggested giving a party but her husband opposed the idea.",
+            "(3) Jaya suggested giving a party but her husband contradicted her.",
+            "(4) Jaya suggested giving a party but her husband refused."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "36",
+        "question": "36. He said to her, “Did it shake you  up as much as it shook me ?”",
+        "options": [
+            "(1) He asked her if it had shaken her up as much as it shook him.",
+            "(2) He enquired of her if it shook her up as it shook him.",
+            "(3) He enquired of her if it shook her up as much as it had shaken him.",
+            "(4) He asked her if it had shaken her up as it had shaken him."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "37",
+        "question": "37. The Chief Minister said, “What a  disaster the earthquake is!”",
+        "options": [
+            "(1) The Chief Minister cried that the earthquake was a terrible disaster.",
+            "(2)The Chief Minister expressed with surprise that the earthquake was a terrible disaster.",
+            "(3)The Chief Minister exclaimed with sorrow that the earthquake was a terrible disaster.",
+            "(4) The Chief Minister told in pain that the earthquake was a terrible disaster."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "38",
+        "question": "38. I said to her, “All your faults will be pardoned if you confess them.” ,",
+        "options": [
+            "(1)I told her that all her faults will be pardoned if you confess them. :",
+            "(2) told her that all her faults would be pardoned if she confessed them.",
+            "(3)I told her that all her faults will have to be pardoned if she confessed them.",
+            "(4)I told her that all her faults would have to be pardoned if she confessed them."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "39",
+        "question": "39. The teacher said to the student, “Why were you absent yesterday?”",
+        "options": [
+            "(1)The teacher asked the student why had been he absent the previous day.",
+            "(2) The teacher asked the student why had he been absent the previous day.",
+            "(3) The teacher informed the student that why he had been absent the next day.",
+            "(4) The teacher asked the student why he had been absent the previous day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "40",
+        "question": "40. ‘From one of the windows of my flat I can see the Qutub Minar’, said my friend.",
+        "options": [
+            "(1) My friend told that from one of the windows of his flat he could see the Qutub Minar.",
+            "(2) My friend said that from one of the windows of his flat he can see the Qutub Minar.",
+            "(3) My friend said that from one of the windows of his flat he could see the Qutub Minar.",
+            "(4) My friend told that from one of the windows of his flat he can see the Qutub Minar."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "41",
+        "question": "41. Shanker said to his friend, “Look out! there is a snake behind you.”",
+        "options": [
+            "(1) Shanker told his friend to look out as there was a snake behind him.",
+            "(2)Shanker exclaimed to his friend with surprise that there was a snake behind him.",
+            "(3) Seeing a snake behind him, Shanker asked his friend to look out.",
+            "(4) Shanker: warned his friend that there was a snake behind him."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "42",
+        "question": "42. The teacher said to Ram, “Would  you like to go on a trip to Kashmir ?” Ram said, “Yes”",
+        "options": [
+            "(1)The teacher asked if Ram would like to go on a trip to Kashmir and Ram replied yes.",
+            "(2) The teacher asked Ram if he would like to go on a trip to Kashmir and Ram replied yes.",
+            "(3) The teacher asked Ram if he would have liked to go ona trip to Kashmir and Ram replied in the affirmative.",
+            "(4) The teacher asked Ram if he would like to go on a trip to Kashmir and Ram replied in the affirmative."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "43",
+        "question": "43. “I Suppose, you children go out for a nice long walk”, she said.",
+        "options": [
+            "(1)She proposed that the children went out for a nice long walk.",
+            "(2) She advised that the children go out for a nice long walk.",
+            "(3) She suggested that the children go out for a nice long walk.",
+            "(4) She suggested that the children should go out for a nice long walk."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "44",
+        "question": "44. Everybody said, “How well she sings!”",
+        "options": [
+            "(1) Everybody told us that she sings very well.",
+            "(2) Everybody exclaimed that she sings very well.",
+            "(3) Everybody exclaimed that she sang very well.",
+            "(4) Everybody told us that how she sang very well."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "45",
+        "question": "45. The old man of Latur said, “Alas, my only son is dead!”",
+        "options": [
+            "(1)The old man of Latur exclaimed with sorrow that his only son was dead.",
+            "(2) The old man of Latur told with pain that his only son was dead.",
+            "(3)The old man of Latur expressed with anguish that his only son was dead.",
+            "(4) The old man of Latur sorrowfully narrated that his only son was dead."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "46",
+        "question": "46. I said, “Let Mohan do his worst,  he cannot harm me.”",
+        "options": [
+            "(1) suggested to Mohan to do his worst, he could not harm me.",
+            "(2)I told that if Mohan did his worst, he could not harm me.",
+            "(3) I declared that Mohan might do his worst, he could not harm me.",
+            "(4) I declared that though Mohan might do his worst, he could not harm me."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "47",
+        "question": "47. “Call the first witness”, said the  judge.",
+        "options": [
+            "(1) The judge commanded to call the first witness.",
+            "(2) The judge commanded them to call the first witness.",
+            "(3) The judge commanded that the first witness be called.",
+            "(4) The judge commanded the first witness to be called."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "48",
+        "question": "48. The queen said to her son, “You  must go to the forest and remain  there till your father calls you back.”",
+        "options": [
+            "(1) The queen ordered her son to go to the forest and remain there till his father calls him back.",
+            "(2) The queen told her son that he must go to the forest and remain there till his father called him back.",
+            "(3) The queen told his son that you must go to the forest and remain there till your father called you back.",
+            "(4) The queen told her son to go to the forest and remained there till his father called him back."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "49",
+        "question": "49. I said, “When it gets dark, light  the lantern and hang it out.”",
+        "options": [
+            "(1) 1 said that when it got dark he light the lantern and hung it out.",
+            "(2) I requested that when it got dark he may light the lantern and hang it out.",
+            "(3)I said that when it got dark he should light the lantern and hang it out.",
+            "(4)I told that when it got dark he should light the lantern and hang it out."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "50",
+        "question": "50. The teacher said to Ashok, “I shall report the matter to the Principal if you misbehave again\".",
+        "options": [
+            "(1) The teacher told Ashok that he would be reporting the matter to the Principal if he misbehaved again.",
+            "(2) The teacher warned Ashok that he would report the matter to the Principal if he misbehaved again.",
+            "(3) The teacher threatened Ashok to report the matter to the Principal if he would misbehave again.",
+            "(4) The teacher cautioned Ashok about reporting the matter to the Principal if he misbehaved again."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "51",
+        "question": "51. “Mohan made this mess. Let him  clear it up”, said his father.",
+        "options": [
+            "(1) Mohan’s father said that Mohan had made the mess and proposed that he clear it up.",
+            "(2) Mohan’s father said that Mohan had made the mess and that he was to clear it.",
+            "(3) Mohan’s father said that Mohan had made the mess and suggested that he clear it.",
+            "(4) Mohan’s father said that Mohan had made the mess and that he should clear it."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "52",
+        "question": "52. “Do as you wish, but don’t come and ask me for help if you get into difficulties.”",
+        "options": [
+            "(1)He told me to do as he wished or he wouldn't come and help me if! got into difficulties.",
+            "(2) He told me to do as I wished, but not to go and ask him for help if I got into difficulties.",
+            "(3)He ordered me to do as I wished, but not to go and ask him for help if, I got into difficulties.",
+            "(4) He told me that unless I did as I wished he would not come and help me if! got into difficulties. where had he been all those"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "53",
+        "question": "53. Socrates said, “Virtue is its own reward.”",
+        "options": [
+            "(1) Socrates said that virtue had its own rewards.",
+            "(2) Socrates says that virtue is its own reward.",
+            "(3) Socrates said that virtue is its own reward.",
+            "(4) Socrates said that virtue was its. own reward."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "54",
+        "question": "54. He said to the interviewer, “Could you please repeat the question?”",
+        "options": [
+            "(1) He requested the interviewer if he could please repeat the question. ",
+            "(2) He requested the interviewer to please repeat the question.",
+            "(3) He requested the interviewer to repeat the question.",
+            "(4) He requested the interviewer if he could repeat the question."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "55",
+        "question": "55. He said, “It used to be a lovely, quiet street.”",
+        "options": [
+            "(1) He said that it used to be a lovely, quiet street.",
+            "(2) He pointed out that it had used to be a lovely, quiet street.",
+            "(3) He said that there used to be a lovely, quiet street.",
+            "(4) He inquired whether there was a lovely, quiet street."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "56",
+        "question": "56. The Prime Minister said that no one would be allowed to disturb the peace.",
+        "options": [
+            "(1) The Prime Minister said, “We shall not allow any one to disturb the peace.”",
+            "(2) The Prime Minister said, “We would not allow no one to disturb the peace",
+            "(3) The Prime Minister said, “No one will disturb the peace.”",
+            "(4) The Prime Minister said, “No. one can disturb the peace.”"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "57",
+        "question": "57.' The spectators said, “Bravo! Well done players.”",
+        "options": [
+            "(1) The spectators shouted that the players were doing very well.",
+            "(2) The spectators exclaimed with joy that the players were doing very well.",
+            "(3) The spectators applauded the players saying that they had done well.",
+            "(4) The spectators applauded the players joyfully to do well."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "58",
+        "question": "58. I said to my friend, “Good Morning. Let us go for a picnic today.”",
+        "options": [
+            "(1) I told good morning to my friend and asked to go fora picnic that day.",
+            "(2) I wished my friend good morning and proposed that we should go for a picnic that day.",
+            "(3) I wished my friend good morning and proposed that they should go for a picnic that day.",
+            "(4) I told good morning to my friend and suggested to go for a picnic today."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "59",
+        "question": "59. The new student asked the old one, “Do you know my name?”",
+        "options": [
+            "(1) The new student asked the old one if he knew his name.",
+            "(2) The new student asked the old one that whether he knew his name.",
+            "(3) The new student asked the old one did he know his name",
+            "(4) The new student asked the old one if he knows his name."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "60",
+        "question": "60. I warned her that I could no longer tolerate her coming late.",
+        "options": [
+            "(1) I said to her, “You can no longer tolerate my coming late.”",
+            "(2) I said to her, “I can no longer tolerate your coming late.”",
+            "(3) I said to her, “He can no longer tolerate her coming late.”",
+            "(4) I said to her, “I can no longer tolerate she coming late.”"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "61",
+        "question": "61. I said to my mother, “I will certainly take you to Bangalore this week.”",
+        "options": [
+            "(1) I told my mother he would  certainly take her to Bangalore that week.",
+            "(2) I told my mother that I would certainly take her to Bangalore that week.",
+            "(3) I told my mother that she would certainly take her to Bangalore that week.",
+            "(4) I told to my mother that I would take you to Bangalore that week."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "62",
+        "question": "62. “How long does the journey take”  my co-passenger asked me.",
+        "options": [
+            "(1) My co-passenger asked me how long does the journey take?",
+            "(2) Vasked my co-passenger how long the journey would take.",
+            "(3) My co-passenger wanted to know how long the journey would take.",
+            "(4) My co-passenger asked me how long the journey did take."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "63",
+        "question": "63. “How clever of you to have solved the puzzle so quickly,” said the mother.",
+        "options": [
+            "(1) The mother exclaimed admiringly that it was very clever of him to have solved the puzzle so quickly.",
+            "(2) The mother expressed that he was so clever to have solved the puzzle quickly.",
+            "(3) The mother told that he was very clever in solving the puzzle so quickly. .",
+            "(4) The mother exclaimed with \"joy that he was clever enough to solve the puzzle so quickly."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "64",
+        "question": "64. He said he goes for a walk every morning.",
+        "options": [
+            "(1) He said, “I went for a walk every morning.”",
+            "(2) He said, “I go for a walk every morning.”",
+            "(3) He said, “I will go for a walk every morning.”",
+            "(4) He said, “He goes for a walk every morning.”"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "65",
+        "question": "65. I reiterated, “I don’t care about  the job.”",
+        "options": [
+            "(1) I reiterated I didn’t care about the job.",
+            "(2) I said again and again I didn't care about the job.",
+            "(3) I reiterated that I did not care about the job.",
+            "(4) I repeatedly said that I cared about the job."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "66",
+        "question": "66. I said to my brother, “Let us go to some hill station for a change.”",
+        "options": [
+            "(1) suggested to my brother that they should go to some hill station for a change.",
+            "(2) I suggested to my brother that we should go to some hill station for a change.",
+            "(3) I suggested to my brother that let us go to some hill station for a change.",
+            "(4) I suggested to my brother that let them go to some hill station for a change."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "67",
+        "question": "67. I wondered how many discoveries went unheeded.",
+        "options": [
+            "(1) I said, “How many discoveries have gone unheeded?”",
+            "(2) I said, “How many discoveries went unheeded?”",
+            "(3) I said, “Do discoveries go unheeded?”",
+            "(4) I said, “How many discoveries go unheeded?”"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "68",
+        "question": "68. Gopan said to me, “Can you do  these sums for me?”",
+        "options": [
+            "(1) Gopan asked me ifI could do those sums for him.",
+            "(2) Gopan asked me if I can do those sums for him.",
+            "(3) Gopan asked me if I can do these sums for him.",
+            "(4) Gopan asked if I could do these sums for him."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "69",
+        "question": "69. The boss said, “It’s time we began planning our work’.",
+        "options": [
+            "(1) The boss said that it was time they had begun planning their work.",
+            "(2) The boss said that it was time we had begun planning our work.",
+            "(3) The boss said that it was time they began planning their work.",
+            "(4) The boss said that it was time we began planning his work."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "70",
+        "question": "70. He said to the judge, “I did not  commit this crime.”",
+        "options": [
+            "(1) He told the judge that he did not commit the crime.",
+            "(2) He told the judge that he had not committed the crime.",
+            "(3) He told the judge that he had not committed that crime.",
+            "(4) He told the judge that he had not committed this crime."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "71",
+        "question": "71. Rahul said, “I will do it now or  never”.",
+        "options": [
+            "(1) Rahul said that he will do it now or never.",
+            "(2) Rahul said that he will now or never do it.",
+            "(3) Rahul said that he would do it then or never",
+            "(4) Rahul said that he would now or never do it."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "72",
+        "question": "72. My father once said to me, “If can't trust my people, then I don’t want to be doing this.”",
+        "options": [
+            "(1) His father once told him that if he couldn't trust his people then he didn't want to be doing that.",
+            "(2) My father once told me that if he couldn't trust his people then he didn't want to be doing that.",
+            "(3) My father once told me that if he couldn't trust my people then he didn't want to be doing that.",
+            "(4) My father once told.me that if he couldn't trust his people then he didn't want to be doing this."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "73",
+        "question": "73. Doshi said to his wife, “Please  select one of these necklaces.”",
+        "options": [
+            "(1) Doshi requested his wife to select one of those necklaces.",
+            "(2) Doshi said to his wife to please select one of these necklaces.",
+            "(3) Doshi told his wife to please select one of those necklaces.",
+            "(4) Doshi pleased his wife to select one of those necklaces."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "74",
+        "question": "74. He wrote in his report, “The rainfall has been scanty till now.”",
+        "options": [
+            "(1) He reported that the rainfall has been scanty till now.",
+            "(2) He reported that the rainfall had been scanty till now.",
+            "(3) He reported that the rainfall has been scanty till then.",
+            "(4) He reported that the rainfall had been scanty till then.. -"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "75",
+        "question": "75. “Govind,” said the manager  sternly, “I command you to tell  me what the old man said.”",
+        "options": [
+            "(1) The manager sternly told Govind that he commanded him to tell him what the old man had said.",
+            "(2) The manager commanded sternly to Govind to tell him what the oldman had said.",
+            "(3) The manager commanded Govind to tell him what the old man said.",
+            "(4) The manager sternly commanded Govind to tell him what the old man had said."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "76",
+        "question": "76. I said to him, “Where have you  lost the pen I brought for you yesterday ?”",
+        "options": [
+            "(1) I asked him where he had lost the pen I had brought him yesterday.",
+            "(2) I asked him where he had lost the pen I have brought for him the previous day.",
+            "(3) I asked him where he had lost the pen I had brought for him the previous day.",
+            "(4) I asked him where had he lost the pen I had brought him the previous day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "77",
+        "question": "77.She said to Rita, “Please help me  with my homework.”",
+        "options": [
+            "(1) She requested Rita to help her in her homework.",
+            "(2) Rita requested her to help her with her homework.",
+            "(3) any She requested Rita to help her with her homework.",
+            "(4) She requested Rita to help her homework."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "78",
+        "question": "78. “What a stupid fellow you are !”  she remarked.",
+        "options": [
+            "(1) She exclaimed that what a stupid fellow he was.",
+            "(2) She exclaimed that he was a very stupid fellow.",
+            "(3) She exclaimed in disgust how he could be so stupid.",
+            "(4) She asked him what a stupid fellow he was."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "79",
+        "question": "79. The police said to the thief, “Don't  move.”",
+        "options": [
+            "(1) The police ordered the thief not to move.",
+            "(2) The police ordered the thief that he should not move.",
+            "(3) The police told the thief that he did not move.",
+            "(4) The police ordered to the thief to not move."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "80",
+        "question": "80. He said, “I am going to college  just now.”",
+        "options": [
+            "(1) He said that he was going to college just now.",
+            "(2) He asked that he was going to college just then.",
+            "(3) He said that he was going to college just then.",
+            "(4) He asked that he was going to college just now."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "81",
+        "question": "81. The teacher said to the student  “Can you explain this ?”",
+        "options": [
+            "(1) The teacher asked the student whether he can explain this.",
+            "(2) The teacher asked the student~ whether he can explain that.",
+            "(3) The teacher asked the student whether he could explain _this.",
+            "(4) The teacher asked the student whether he could explain that."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "82",
+        "question": "82. Ramu said, “My master is planning to build a huge house in Khandala.”",
+        "options": [
+            "(1) Ramu said that his master planned to build a huge house in Khandala.",
+            "(2) Ramu said that his master is planning to build a huge house in Khandala.",
+            "(3) Ramu said that his master’s plan is to build a huge house in Khandala.",
+            "(4) Ramu said that his master was planning to build a huge house in Khandala."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "83",
+        "question": "83. Nandita said to Nitin, “Can you  solve this sum ?”",
+        "options": [
+            "(1) Nandita asked Nitin if could he solve this sum.",
+            "(2) Nandita asked Nitin if could he solve that sum.",
+            "(3) Nandita asked Nitin if he could solve this sum.",
+            "(4) Nandita asked Nitin if he could solve that sum."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "84",
+        "question": "84. He said, “How lovely the scene is!”",
+        "options": [
+            "(1) He exclaimed that the scene is very lovely.",
+            "(2) He exclaimed that how the scene was lovely.",
+            "(3) He exclaimed that the scene was very lovely.",
+            "(4) He exclaimed that the scene is indeed lovely."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "85",
+        "question": "85. Bill said, “I am here to help you all.”",
+        "options": [
+            "(1) Bill said that he is here to help you all.",
+            "(2) Bill said that he was there to help us all.",
+            "(3) Bill said that he was here to help us all. ;",
+            "(4) Bill said that he is there to help us all."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "86",
+        "question": "86. The kids yelled in a loud voice,  “We love our family.”",
+        "options": [
+            "(1) The kids yelled loudly that they love our family.",
+            "(2) The kids yelled in a loud voice that they loved their family.",
+            "(3) The kids yelled in a loud voice that they loved our family.",
+            "(4) The kids were shouting loudly that they loved their family. :"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "87",
+        "question": "87. He said to me, “Please visit my  company tomorrow”.",
+        "options": [
+            "(1) He said to me to visit his company tomorrow.",
+            "(2) He requested me to visit his company tomorrow.",
+            "(3) He requested me to visit his company the next day.",
+            "(4) He said to me to visit his company the next day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "88",
+        "question": "88. He said, “My parents are arriving tomorrow.”",
+        "options": [
+            "(1) He said that his parents are arriving the next day.",
+            "(2) He said that his parents were arriving the next day.",
+            "(3) He said that his parents are arriving tomorrow.",
+            "(4) He said that his parents have arrived the next day. __"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "89",
+        "question": "89. He said, “How cruel of him !”",
+        "options": [
+            "(1) He remarked that it was very cruel of him.",
+            "(2) He remarked on his great cruelty.",
+            "(3) He remark that it was very cruel of him.",
+            "(4) He remarked that it is very  cruel of him."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "90",
+        "question": "90. “How did it get here ?” She wanted to know.",
+        "options": [
+            "(1) She wanted to know how did it get here.",
+            "(2) She wanted to know how it had gotthere.",
+            "(3) She wanted to know how did it got there.",
+            "(4) She wanted to know how it get there."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "91",
+        "question": "91. “You are one of Pinkerton’s men, I  presume,” he said.",
+        "options": [
+            "(1) He said that he presumed me one of Pinkerton’s men.",
+            "(2) He said that he presumed that I was one of Pinkerton’s men,",
+            "(3) He said that he presumed me as one of Pinkerton's men.",
+            "(4) He said that he presumes that I am one of Pinkerton's men."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "92",
+        "question": "92. “Away !” she said to the man, “do  not trouble your family anymore”.",
+        "options": [
+            "(1) She asked the man to go away and not trouble the family any more.",
+            "(2) She asked the man not to trouble the family that was away, anymore.",
+            "(3) She asked the man not to trouble your family any more and go away.",
+            "(4) She asked the man to go away and not trouble his family any more."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "93",
+        "question": "93. He asked me, “Have you finished  reading the magazine ?”",
+        "options": [
+            "(1) He asked me whether I had finished reading the magazine.",
+            "(2) He asked me if had I finished reading the magazine.",
+            "(3) He asked me ifI have finished reading the magazine.",
+            "(4) He asked me whether I finished reading the magazine."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "94",
+        "question": "94. He said, “We have done our  work ”.",
+        "options": [
+            "(1) He said that he had done his work.",
+            "(2) He said that they have done their work.",
+            "(3) He said that they had done their work.",
+            "(4) He said that they should do their work."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "95",
+        "question": "95. He said that he had been waiting  there for a long time.",
+        "options": [
+            "(1) He said, “I have been waiting here for a long time.”",
+            "(2) He said, “He has been waiting here for a long time.”",
+            "(3) He said, “He has been waiting there for a long time.”",
+            "(4) He said, “I am waiting here for a long time.”"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "96",
+        "question": "96. “Please, take me to the officer,”  said the visitor.",
+        "options": [
+            "(1) The visitor requested them to take him to the officer.",
+            "(2) The visitor told them to take him to the officer.",
+            "(3) The visitor requested for the Officer tobe taken. .",
+            "(4) The visitor wanted the officer to take him there."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "97",
+        "question": "97. Nitin said, “What a pleasant atmosphere this place has !”",
+        "options": [
+            "(1) Nitin exclaimed with joy that place was a pleasant atmosphere.",
+            "(2) Nitin exclaimed with joy that was a pleasant atmosphere in that place.",
+            "(3) Nitin exclaimed with joy that that place had a pleasant atmosphere.",
+            "(4) Nitin exclaimed with joy that what a pleasant atmosphere that place had."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "98",
+        "question": "98. Aarati said, “1 am in a hurry today.”",
+        "options": [
+            "(1) Aarati said that she was in a hurry that day.",
+            "(2) Aarati said that I am in a hurry today.",
+            "(3) Aarati said that she is in a hurry today.",
+            "(4) Aarati said that she is in a. hurry that day."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "99",
+        "question": "99. They said, “We are practising for  the next match.”",
+        "options": [
+            "(1) They said that they are practising for the next match.",
+            "(2) They said that they practised for the next match.",
+            "(3) They said that they were practising for the next match.",
+            "(4) They said they were going to practise for the next match."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "100",
+        "question": "100. He said, “Long may you live.”",
+        "options": [
+            "(1) He suggested that my life might be long.",
+            "(2) He prayed that my life might be long. ",
+            "(3) He prayed that my life may be longer.",
+            "(4) He declared that my life is longer."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "101",
+        "question": "101. “When did you meet my brother?” She asked me.",
+        "options": [
+            "(1) She wanted to know when did I meet her brother.",
+            "(2) She asked when did I meet my brother.",
+            "(3) She asked me when I had met her brother.",
+            "(4) She wants to know when I had met my brother."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "102",
+        "question": "102. Ruby requested me to lend her  Rs. 1000 the next day.",
+        "options": [
+            "(1) Ruby said to me, “Please lend me Rs. 1000 the next day.”",
+            "(2) Ruby said to me, “Please lend her Rs. 1000 the next day.”",
+            "(3) Ruby said to me, “Please lend her Rs. 1000 tomorrow.”",
+            "(4) Ruby said to me, “Please lend me Rs. 1000 tomorrow.”"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "103",
+        "question": "103. “Do you want balloons ?” he said  to the child.",
+        "options": [
+            "(1) He asked the child if it wanted balloons.",
+            "(2) He asked the child whether it had wanted balloons. -",
+            "(3) He asked the child did it want balloons.",
+            "(4) He asked the child if it would want balloons."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "104",
+        "question": "104. She said, “How ugly I look in this  dress !”",
+        "options": [
+            "(1) She said that how ugly she was looking in that dress.",
+            "(2) She exclaimed how ugly she looked in that dress.",
+            "(3) She expressed how ugly she looked in that dress.",
+            "(4) She exclaimed that she looked very ugly in that dress.."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "105",
+        "question": "105. She said “You can leave the  books here.”",
+        "options": [
+            "(1) She said that they can leave the books there.",
+            "(2) She said that they could leave the books there.",
+            "(3) She said that they can leave the books here.",
+            "(4) She said that they could leave the books here."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "106",
+        "question": "106. My friend said “I am leaving today.”",
+        "options": [
+            "(1) My friend said that he is leaving today.",
+            "(2) My friend said that he was leaving today.",
+            "(3) My friend said that he leaves today.",
+            "(4) My friend said that he was leaving that day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "107",
+        "question": "107. Mukta said to Puneet, “My mother is a good cook”.",
+        "options": [
+            "(1) Mukta told Puneet that her mother was a good cook.",
+            "(2) Mukta told Puneet that my mother was a good cook.",
+            "(3) Mukta told to Puneet that her mother is a good cook.",
+            "(4) Mukta asked Puneet that her Mother is a good cook."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "108",
+        "question": "108. The commander said to the  army, “March forward”.",
+        "options": [
+            "(1) The commander asked the army march forward.",
+            "(2) The commander ordered the army to march forward.",
+            "(3) The commander requested the army to go forward.",
+            "(4) The army requested the commander to march."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "109",
+        "question": "109. He promised, “I will do it tomorrow.”",
+        "options": [
+            "(1) He promised that he will do it tomorrow.",
+            "(2) He promised that he will do it the next day.",
+            "(3) He promised that he would do it tomorrow.",
+            "(4) He promised that he would do it the next day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "110",
+        "question": "110. Geeta said, “I_did not do this  deliberately .”",
+        "options": [
+            "(1) Geeta said that I had not done that deliberately.",
+            "(2) Geeta said that she had not done that deliberately.",
+            "(3) Geeta said that she has not done this deliberately.",
+            "(4) Geeta said that I have not done this deliberately."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "111",
+        "question": "111. She exclaimed, “I'm afraid we are  rather late !”",
+        "options": [
+            "(1) She exclaimed that they were frightened of being late.",
+            "(2) She exclaimed that she was afraid that they were rather _ late.",
+            "(3) She shouted that they were scared that they would be late.",
+            "(4) She screamed that she was worried that they would all be late."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "112",
+        "question": "112. She said to me, “What can I do  for you?”",
+        "options": [
+            "(1) She asked me what she could do for me.",
+            "(2) She asked me what can she do for me.",
+            "(3) She asked me what she can do for me.",
+            "(4) She asked me whether she can do anything for me."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "113",
+        "question": "113. He said, “ Alas! I am undone!",
+        "options": [
+            "(1) He said that it was his undoing.",
+            "(2) He exclaimed pathetically _ that he was undone.",
+            "(3) He stated that he was undone.",
+            "(4) He cried that he was being undone."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "114",
+        "question": "114. “I shall unlock the secrets of  their success,” he said.",
+        "options": [
+            "(1) He said that he shall unlock the secrets of their success.",
+            "(2) He said that he should unlock the secrets of their success.",
+            "(3) He said that he would unlock the secrets of their success.",
+            "(4) He said that he will unlock the secrets of their success."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "115",
+        "question": "115. “I wonder what he wants of us,”  said Quint.",
+        "options": [
+            "(1) Quint said that he was wondering what he wanted of them.",
+            "(2) Quint said that he wondered what he wanted of us.",
+            "(3) Quint said he wondered what he wants of them.",
+            "(4) Quint said that he wondered what he wanted of them."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "116",
+        "question": "116. Dinesh said, “I want to eat a good mango one of these days.”",
+        "options": [
+            "(1) Dinesh said he wants to eat a good mango one of these days.",
+            "(2) Dinesh said that he wanted to eat a good mango one of those days.",
+            "(3) Dinesh said that he wants to eat a good mango one of those days.",
+            "(4) Dinesh said that he wanted to eat a good mango one of these days."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "117",
+        "question": "117. He said, “I intend to leave for,  Delhi tonight.”",
+        "options": [
+            "(1) He said that he will intend to leave for Delhi tonight.",
+            "(2) He said that he should intend to leave for Delhi that night.",
+            "(3) He said that he intended to leave for Delhi that night.",
+            "(4) He said that his intention is to leave for Delhi tonight."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "118",
+        "question": "118. He said, “The Sun_rises in the  east.”",
+        "options": [
+            "(1) He said that the Sun rised in the East.",
+            "(2) He said that the Sun rises in the East.",
+            "(3) He said that the Sun will rise in the East.",
+            "(4) He said that the Sun may rise in the East."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "119",
+        "question": "119. Ram asked Krishna, “Where are  you going today ?”",
+        "options": [
+            "(1) Ram asked Krishna where he was going that day.",
+            "(2) Ram asked Krishna as to where he was going on the previous day.",
+            "(3) Ram asked Krishna where was he going the next day.",
+            "(4) Ram asked Krishna where was he going the day before."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "120",
+        "question": "120. He said, “What a fool Tom is !”",
+        "options": [
+            "(1) He exclaimed that he was a big fool.",
+            "(2) He exclaimed that Tom was a big fool.",
+            "(3) He wondered what kind ofa fool Tom was.",
+            "(4) He claimed that Tom was a big fool."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "121",
+        "question": "121. “What kind of scheme do you  have ?” Amit asked the insurance agent.",
+        "options": [
+            "(1) Amit asked the insurance agent what kind of scheme he/she had.",
+            "(2) Amit asked the insurance  agent what kind of scheme he/she has.",
+            "(3) Amit asked the insurance agent what kind of scheme he/she is having",
+            "(4) Amit asked the insurance agent what kind of scheme ~ he/she was having."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "122",
+        "question": "122. The doctor said to the patient,  “Take complete rest.”",
+        "options": [
+            "(1) The doctor told to the patient that take complete rest.",
+            "(2) The doctor advised the patient to take complete rest",
+            "(3) The doctor suggested the patient to take complete rest",
+            "(4) The doctor asked the patient take complete rest."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "123",
+        "question": "123. Mini said to me, “I have bought  this flat for my mother.”",
+        "options": [
+            "(1) Mini told that she had bought that flat for her mother.",
+            "(2) Mini said that she bought that flat for her mother.",
+            "(3) Mini said she has bought that flat for mother,",
+            "(4) Mini told me that she had bought that flat for her mother."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "124",
+        "question": "124. He said, “I will come again.”",
+        "options": [
+            "(1) He said that he will come again.",
+            "(2) He says he is coming again.",
+            "(3) He says he'll come again.",
+            "(4) He said that he would come again."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "125",
+        "question": "125. \"Don't do any more work until you have had a rest,\" her mother advised her.",
+        "options": [
+            "(1) Her mother advised her not to do any more work until she has had a rest.",
+            "(2) Her mother advised her not to do any more work until she had had a rest.",
+            "(3) Her mother advised her that she would not do any more work until she had had a rest.",
+            "(4) He mother advised her that she need not do any more work until she had had a rest."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "126",
+        "question": "126. \"Make me another suit like this,\" he said to the tailor.",
+        "options": [
+            "(1) He asked the tailor to make him another suit like this.",
+            "(2) He asks the tailor to make him another suit like this.",
+            "(3) He asked the tailor to make him another suit like that.",
+            "(4) He asked the tailor to make me another suit like this."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "127",
+        "question": "127. My Principal told me, \"Don't conduct any test tomorrow.\"",
+        "options": [
+            "(1) My Principal told me not to conduct any test tomorrow.",
+            "(2) My Principal told me not to conduct any test tomorrow.",
+            "(3) My Principal ordered me don't conduct any test.",
+            "(4) My Principal ordered me not to conduct any test the next day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "128",
+        "question": "128. The boy said, \"Bravo! You have done well.\"",
+        "options": [
+            "(1) The boy said that he had done well.",
+            "(2) The boy exclaimed that he had done well.",
+            "(3) The boy applauded him, saying that he had done well.",
+            "(4) The boy said bravo he had done well."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "129",
+        "question": "129. I said to my sister, \"I brought you a doll yesterday.\"",
+        "options": [
+            "(1) I told my sister that I brought you a doll the previous day.",
+            "(2) I told my sister that I had brought her a doll the previous day.",
+            "(3) I told my sister that I had brought her a doll yesterday.",
+            "(4) I told my sister that I brought her a doll yesterday."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "130",
+        "question": "130. The captain said to the army, \"March forward, now.\"",
+        "options": [
+            "(1) The captain said to the army that march forward now.",
+            "(2) The captain ordered the army to march forward then.",
+            "(3) The captain ordered the army to march on that day.",
+            "(4) The captain ordered the army to attack the enemy."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "131",
+        "question": "131. They said, \"We've lived here for a long time.\"",
+        "options": [
+            "(1) They said they have lived there for a long time.",
+            "(2) They said they lived here for a long time.",
+            "(3) They said they had lived there for a long time.",
+            "(4) They said they have lived for a long time."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "132",
+        "question": "132. \"Wouldyou open the door please?\"",
+        "options": [
+            "(1) She asked me to please open the door.",
+            "(2) She requested me to open the door.",
+            "(3) She requested me to please open the door.",
+            "(4) She asked me open the door."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "133",
+        "question": "133. The teacher said, \"Gandhiji was born in India.\"",
+        "options": [
+            "(1) The teacher said that Gandhiji had been born in India.",
+            "(2) The teacher says that Gandhiji was born in India.",
+            "(3) The teacher said that Gandhiji was born in India.",
+            "(4) The teacher will say that Gandhiji was born in India."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "134",
+        "question": "134. The teacher said to the student \"Why do you disturb the class?\"",
+        "options": [
+            "(1) The teacher said to the student why he disturbed the class.",
+            "(2) The teacher told the student why he had disturbed the class.",
+            "(3) The teacher asked the student why he disturbed the class.",
+            "(4) The teacher asked the student why he had disturbed the class."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "135",
+        "question": "135. Rita said to me, \"Will you lend me this classic ?\" Rita asked me",
+        "options": [
+            "(1) if I would lend her that classic",
+            "(2) if she would lend me that classic",
+            "(3) if I will lend her that classic",
+            "(4) would I lend her that classic?"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "136",
+        "question": "136. The lady said to the servant, \"If you don't wash the clothes properly, I will dismiss you.\"",
+        "options": [
+            "(1) The lady warned the servant that she would dismiss her if she didn't wash the clothes properly.",
+            "(2) The lady told the servant that she would dismiss her on the event of bad work.",
+            "(3) The lady cautioned the servant that she must wash the clothes properly.",
+            "(4) The lady advised the servant to wash the clothes properly."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "137",
+        "question": "137. \"There are ceremonies going on\", he said to me.",
+        "options": [
+            "(1) He told me that there were ceremonies going on.",
+            "(2) He told that there have been ceremonies going on.",
+            "(3) He told that there had been ceremonies going on.",
+            "(4) He told that there are ceremonies going on."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "138",
+        "question": "138. He said to Manoj, \"May you prosper.\"",
+        "options": [
+            "(1) He wished that Manoj should prosper.",
+            "(2) He wished that Manoj may prosper.",
+            "(3) He wished that Manoj mich prosper.",
+            "(4) He wished Manoj to prospei."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "139",
+        "question": "139. The mother said, \"What can I do for you, my son ?\"",
+        "options": [
+            "(1) The mother said to her son what she could do for him.",
+            "(2) The mother asked her son what she did for him.",
+            "(3) The mother asked her son what she could do for him.",
+            "(4) The mother asked what she could do for him, my son."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "140",
+        "question": "140. My Daddy always says, \"Getting up early in the morning is a good bad habit.\"",
+        "options": [
+            "(1) My Daddy always says that ss to get up early in the morning is a good habit.",
+            "(2) My Daddy always says that getting up early in the morning is a good habit.",
+            "(3) My Daddy always advises ad baby that getting up early in the morning was a good habit.",
+            "(4) My Daddy always warns that here to get up early in the morning was a good habit."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "141",
+        "question": "141. \"Be quiet\" I said to them.",
+        "options": [
+            "(1) I told them to be quiet.",
+            "(2) I asked them to remain quiet.",
+            "(3) I told to them for being quiet.",
+            "(4) I ordered them to remain quiet."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "142",
+        "question": "142. The mother says to the child, \"The Sun rises in the East.\"",
+        "options": [
+            "(1) The mother tells the child that the Sun rose in the East.",
+            "(2) The mother says the child that the Sun rises in the East.",
+            "(3) The mother tells the child that the Sun rises in the East.",
+            "(4) The mother informs the child that the Sun rose in the East."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "143",
+        "question": "143. He said, \"The teacher usually does not ask any question.\" He said that",
+        "options": [
+            "(1) the teacher usually does not ask any question.",
+            "(2) the teacher usually did not ask any question.",
+            "(3) the teacher usually asked no question.",
+            "(4) the teacher usually did not asked any question."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "144",
+        "question": "144. \"Where do you live?\" asked the stranger.",
+        "options": [
+            "(1) The stranger asked where I lived.",
+            "(2) The stranger enquired where I was living.",
+            "(3) The stranger questioned where did I live.",
+            "(4) The stranger wanted to know where I live."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "145",
+        "question": "145. I said to him, \"How do you know this?\"",
+        "options": [
+            "(1) I asked him how I knew that.",
+            "(2) I asked him that how he knew that.",
+            "(3) I told him how 1 knew that.",
+            "(4) I asked him how he knew that."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "146",
+        "question": "146. He said, \"We are all sinners.\"",
+        "options": [
+            "(1) He said that we are all d to sinners.",
+            "(2) He said they were all sinners.",
+            "(3) He said that he was a sinner.",
+            "(4) He said all were sinners."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "147",
+        "question": "147. \"Would you mind taking off your shoes before entering the house?\" He said to the foreigner.",
+        "options": [
+            "(1) He requested the foreigner to take off his shoes before entering the house.",
+            "(2) He told the foreigner that he must take off his shoes before entered the house.",
+            "(3) He said the foreigner that to take off his shoes before entered the house.",
+            "(4) Before entering the house he said that shoes must be taken off."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "148",
+        "question": "148. \"I lost my book yesterday\", she said to her teacher.",
+        "options": [
+            "(1) She admitted to her teacher that she had lost her book the previous day.",
+            "(2) To her teacher she was admitted that she has lost her book the previous day.",
+            "(3) She admitted losing her book to her teacher yesterday.",
+            "(4) She said to her teacher that I have lost my book the previous day."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "149",
+        "question": "149. \"Do you want some more sweets?\" asked my friend.",
+        "options": [
+            "(1) My friend asked me if I want some more sweets.",
+            "(2) My friend said to me if I wanted some more sweets.",
+            "(3) My friend asked me whether I wanted some more sweets.",
+            "(4) My friend asked me that I wanted some more sweets."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "150",
+        "question": "150. \"I have seen the film before\" Suneetha says.",
+        "options": [
+            "(1) Suneetha said that she had seen the film before.",
+            "(2) Suneetha says that she has seen the film before.",
+            "(3) Suneetha said that the film was seen by her before.",
+            "(4) Suneetha said that she saw the film earlier."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "151",
+        "question": "151. He ordered his servant to do as he was told.",
+        "options": [
+            "(1) He ordered his servant, \"Do as you are told.\"",
+            "(2) He said to his servant, \"Do as you are told.\"",
+            "(3) He said to his servant. \"Do as I told you.",
+            "(4) He said to his servant, \"Do as you were told.\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "152",
+        "question": "152. She said to the girl, \"Did you do this?\"",
+        "options": [
+            "(1) She asked the girl that she did that.",
+            "(2) She asked the girl if she did that.",
+            "(3) She asked the girl if she had We done that.",
+            "(4) She told the girl that she had done that."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "153",
+        "question": "153. Kiran asked me, \"Did you see the cricket match on television last night?\"",
+        "options": [
+            "(1) Kiran asked me whether I saw the cricket match on television the earlier night.",
+            "(2) Kiran asked me whether I had seen the cricket match on television the earlier night.",
+            "(3) Kiran asked me did I see the cricket match on television last night.",
+            "(4) Kiran asked me whether I had seen the cricket match on television last night."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "154",
+        "question": "154. David said to Anna, \"Mona will leave for her native place tomorrow.\"",
+        "options": [
+            "(1) David told Anna that Mona will leave for her native place tomorrow.",
+            "(2) David told Anna that Mona left for her native place the next day.",
+            "(3) David told to Anna that Mona would be leaving for her native place tomorrow.",
+            "(4) David told Anna that Mona would leave for her native place the next day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "155",
+        "question": "155. I said to him, “Why are you working so hard ?”",
+        "options": [
+            "(1) I asked him why he was working so hard.",
+            "(2) I asked him why was he working so hard.",
+            "(3) I asked him why he had been working so hard.",
+            "(4) I asked him why had he been working so hard."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "156",
+        "question": "156. He said to her, “What a cold day!”",
+        "options": [
+            "(1) He told her that it was a cold day.",
+            "(2) He exclaimed that it was a cold day.",
+            "(3) He exclaimed sorrowfully that it was a cold day.",
+            "(4) He exclaimed that it was a very cold day."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "157",
+        "question": "157. The tailor said to him, “Will you  have the suit ready by tomorrow  evening ?”",
+        "options": [
+            "(1) The tailor asked him that he will have the suit ready by the next evening.",
+            "(2) The tailor asked him that he would had the suit ready by the next evening.",
+            "(3) The tailor asked him if he would have the suit ready by the next evening.",
+            "(4) The tailor asked him if he will like to have the suit ready by the next evening."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "158",
+        "question": "158. He said to the interviewer,  “Could you please repeat the  question?”",
+        "options": [
+            "(1) He requested the interviewer if he could please repeat the question.",
+            "(2) He requested the interviewer to please repeat the question.",
+            "(3) He requested the interviewer to repeat the question.",
+            "(4) He requested the interviewer if he could repeat the question."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "159",
+        "question": "159. He said, “Be quiet and listen to  my words.”",
+        "options": [
+            "(1) He urged them to be quiet and listen to his words.",
+            "(2) He urged them and said be quiet and listen to words.",
+            "(3) He said they should be quiet and listen to his words.",
+            "(4) He said you should be quiet and listen to my words."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "160",
+        "question": "160. He said to me, “I have often told  you not to play with fire.”",
+        "options": [
+            "(1) He said that he has often been telling me not to play with fire.",
+            "(2) He told me that he had often told me not to play with fire.",
+            "(3) He reminded me that he often said to me not to play with fire.",
+            "(4) He said to me that he often told me not to play with fire."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "161",
+        "question": "161. The Captain said to his men,  “Stand at ease.”",
+        "options": [
+            "(1) The Captain urged his men to stand at ease.",
+            "(2) The Captain wanted his men to stand at ease.",
+            "(3) The Captain told his men that they should stand at ease.",
+            "(4) The Captain commanded his men to stand at ease."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "162",
+        "question": "162. Pawan said to me, “If I hear any  news, I'll phone you.”",
+        "options": [
+            "(1) Pawan told me that if he heard any news, he will phone me.",
+            "(2) Pawan told me that if he will hear any news, he will phone me.",
+            "(3) Pawan told me if he had heard any news, he would phone me.",
+            "(4) Pawan told me that if he heard any news, he would phone me. ."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "163",
+        "question": "163. The teacher said to Mahesh, \"Congratulations! Wish you success in life.”",
+        "options": [
+            "(1) The teacher congratulated Mahesh and said wish you success in life.",
+            "(2) The teacher wished congratulations and success in life to Mahesh.",
+            "(3) The teacher said congratulations to Mahesh and wished him success in life.",
+            "(4) The teacher congratulated Mahesh and wished him success in life."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "164",
+        "question": "164. The poor examinee said, “O God,  take pity on me.”",
+        "options": [
+            "(1) The poor examinee prayed God to take pity on him.",
+            "(2) The poor examinee, invoking God, implored him to take pity on him.  3) The poor examinee exclaimed that God take pity on him.  (4) The poor examinee asked God to take pity on him.",
+            "",
+            "(4) The poor examinee asked God to take pity on him."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "165",
+        "question": "165. “Where will you be tomorrow,\" I  said, “in case I have to ring you?”",
+        "options": [
+            "(1) l asked where you will be the next day in case I will ring him.",
+            "(2) I asked where he would be the next day in case I had to ring him.",
+            "(3) I said to him where he will be in case I have to ring him.",
+            "(4) I enquired about his where abouts the next day in case I would have to ring up."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "166",
+        "question": "166. Seeta said to me, “Can you give me your pen ?”.",
+        "options": [
+            "(1) Seeta asked me can I give her my pen.",
+            "(2) Seeta asked me if I can give me your pen.",
+            "(3) Seeta asked me if I could give her my pen.",
+            "(4) Seeta asked me if I gave her my pen."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "167",
+        "question": "167. The father warned his son that  he should be beware of him.",
+        "options": [
+            "(1) The father warned his son, “Beware of him!”",
+            "(2) The father warned his son, “Watch that chap!”",
+            "(3) The father warned his son, “Be careful about him.”  (4} The father warned his son, “Don't fall into the trap.”",
+            ""
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "168",
+        "question": "168. Manna asked Rohan, “Have you  sat in a trolley bus before?”",
+        "options": [
+            "(1) Manna asked Rohan whether he had satina trolley bus earlier.",
+            "(2) Manna asked Rohan had he sat in a trolley bus before.",
+            "(3) Manna asked Rohan if he sat on a trolley bus before.",
+            "(4) Manna asked Rohan if he has ever sat in a trolley bus"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "169",
+        "question": "169. Farhan asked Geeta, “Could you  lend me a hundred rupees until  tomorrow ?”",
+        "options": [
+            "(1) Farhan asked Geeta whether she could lend him a hundred rupees until tomorrow.",
+            "(2) Farhan asked Geeta whether she could lend him a hundred rupees until the next day.",
+            "(3) Farhan asked Geeta whether she could lend me a hundred rupees until the next day.",
+            "(4) Farhan asked whether Geeta could lend me a hundred rupees until the next day."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "170",
+        "question": "170. \"What about going for a swim,\" he said, \"It's quite fine now.\"",
+        "options": [
+            "(1) He asked me what about going for a swim as it was quite fine then.",
+            "(2) He proposed going for a swim as it was quite fine.",
+            "(3) He suggested going for a swim as it was quite fine.",
+            "(4) He advised me to go for a swim as it was quite fine."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "171",
+        "question": "171. \"You can't bathe in this sea,\" he said to me, \"it's very rough.\"",
+        "options": [
+            "(1) He said that I can't bathe in this sea because it's very rough.",
+            "(2) He said that you couldn't bathe in that sea if it was very rough.",
+            "(3) He said that I couldn't bathe in that sea as it was very rough.",
+            "(4) He said that you can't bathe in this sea since it was very rough."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "172",
+        "question": "172. Jagdish said, \"We passed by a beautiful lake when we went on a trip to Goa.\"",
+        "options": [
+            "(1) Jagdish said that they passed by a beautiful lake when they had gone on a trip to Goa.",
+            "(2) Jagdish said that they had passed by a beautiful lake when they went on a trip to Goa.",
+            "(3) Jagdish said that they had Anpassed by a beautiful lake when they had gone on a trip to Goa.",
+            "(4) Jagdish said they passed by a beautiful lake when they went on a trip to Goa."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "173",
+        "question": "173. He said to me, \"I expect you to attend the function.\"",
+        "options": [
+            "(1) He told me that he had exected me to attend the function.",
+            "(2) He told me that he expected me to attended the function.",
+            "(3) He told me that he expected me to have attended the function.",
+            "(4) He told me that he expected me to attend the function."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "174",
+        "question": "174. He said, \"Why didn't you send your application to me ?\"",
+        "options": [
+            "(1) He enquired why I had not sent my application to him.",
+            "(2) He enquired why I did not send my application to him.",
+            "(3) He enquired why had I not sent my application to him.",
+            "(4) He enquired why did I not send my application to him."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "175",
+        "question": "175. Dinesh asked, \"Are you going to the party tomorrow, Eliza ?\"",
+        "options": [
+            "(1) Dinesh asked whether Eliza was going to the party the next day.",
+            "(2) Dinesh asked Eliza whether you are going to the party the next day.",
+            "(3) Dinesh asked Eliza whether she was going to the party the next day.",
+            "(4) Dinesh asked Eliza are you going to the party tomorrow."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "176",
+        "question": "176. John asked, \"How long will it take to travel from Germany to South Africa ?\"",
+        "options": [
+            "(1) John asked how long it will take to travel from Germany to South Africa.",
+            "(2) John asked how long would it take to travel from Germany to South Africa.",
+            "(3) John asked how long it would take to travel from Germany to South Africa.",
+            "(4) John was asking how long must it take to travel from Germany to South Africa."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "177",
+        "question": "177. \"What did you see at the South Pole?\" Ashok asked Anil.",
+        "options": [
+            "(1) Ashok asked Anil if he saw anything at the South Pole",
+            "(2) Ashok asked Anil what he had seen at the South Pole",
+            "(3) Ashok asked Anil what did he see at the South Pole",
+            "(4) Ashok asked Anil that he saw anything at the South Pole"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "178",
+        "question": "178. The visitor said to them \"Please give me a glass of water.\"",
+        "options": [
+            "(1) The visitor said please give him a glass of water.",
+            "(2) The visitor said to them to give him a glass of water.",
+            "(3) The visitor ordered them to give a glass of water.",
+            "(4) The visitor requested them to give him a glass of water."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "179",
+        "question": "179. The policeman told the students, \"Do not park your vehicles here.'",
+        "options": [
+            "(1) The policeman asked the students not park your vehicles here.",
+            "(2) The policeman asked the students not to park their vehicles here.",
+            "(3) The policeman asked the students not to park their vehicles there.",
+            "(4) The policeman asked the students not to park his vehicle here."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "180",
+        "question": "180. The man said, \"All the boys are playing in the street.\"",
+        "options": [
+            "(1) The man told us that all the boys had been playing in the street.",
+            "(2) The man told us that all the boys were playing in the street.",
+            "(3) The man told us that all the boys play in the street.",
+            "(4) The man told us that all the boys in the street are playing."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "181",
+        "question": "181. She said, \"I am sorry, I did not write\".",
+        "options": [
+            "(1) She apologized for I did not write.",
+            "(2) She apologized she is sorry, she did not write.",
+            "(3) She apologized she is sorry, she has not written.",
+            "(4) She apologized that she had not written."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "182",
+        "question": "182. \"Alright, yes, I was wrong and you were right\", he said.",
+        "options": [
+            "(1) He admitted that he has been wrong and I have been right.",
+            "(2) He admitted that I was wrong and you were right.",
+            "(3) He admitted that I was wrong and he was right.",
+            "(4) He admitted that he had been wrong and I had been right."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "183",
+        "question": "183. Nirmal said to us, \"My father gave me a purse yesterday.\"",
+        "options": [
+            "(1) Nirmal told us that my father given me a purse the previous day.",
+            "(2) Nirmal told us that his father had given him a purse the previous day.",
+            "(3) Nirmal told us that his father has given him a purse yesterday.",
+            "(4) Nirmal told us that his father had given him a purse yesterday."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "184",
+        "question": "184. I asked my brother if he had returned the money to his friend.",
+        "options": [
+            "(1) Had you returned the money to my friend.",
+            "(2) I said to my brother, \"Have you return the money to his friend?\"",
+            "(3) I said to my brother, \"Have you returned the money to your friend?\"",
+            "(4) Do you return the money to his friend."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "185",
+        "question": "185. Bala's mother: \"Will you lock the door, Bala?\"",
+        "options": [
+            "(1) Bala's mother told Bala that he need not lock the door.",
+            "(2) Bala's mother asked Bala if he would lock the door.",
+            "(3) Bala's mother asked Bala if  he had locked the door.",
+            "(4) Balas mother said lock the door."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "186",
+        "question": "186. \"Are you ready, Raju?\" Mother asked.",
+        "options": [
+            "(1) Mother asked Raju if he would be ready.",
+            "(2) Mother told Raju if he was ready.",
+            "(3) Mother asked Raju if he was tou his ready.",
+            "(4) Mother wanted to know from Raju if he was ready."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "187",
+        "question": "187. Ann told my brother, \"I will meet you in your class\".",
+        "options": [
+            "(1) Ann told my brother that he will meet her in her class.",
+            "(2) Ann told my brother that I bust would meet you in your class.",
+            "(3) Ann told my brother that she would meet him in his class.",
+            "(4) Ann told my brother that she would meet him in her class."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "188",
+        "question": "188. Naren said, \"Why are you still waiting here, Binod?\"",
+        "options": [
+            "(1) Naren asked Binod why he was still waiting there.",
+            "(2) Naren asked Binod that why She he was still waiting there.",
+            "(3) Naren asked Binod why he is still waiting there.",
+            "(4) Naren asked Binod that why you were still waiting there."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "189",
+        "question": "189. \"Jack fell as he'd have wished,\" the mother said.",
+        "options": [
+            "(1) The mother said that Jack had fallen as he would have wished.",
+            "(2) The mother said that Jack fell as he had wished.",
+            "(3) The mother said that Jack Warry has fallen as he has wished.",
+            "(4) The mother said that Jack had been fallen as he would have been wished."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "190",
+        "question": "190. \"Can you see a woman seated on the bench in a park ?\" Alice asked her.",
+        "options": [
+            "(1) Alice asked her if she can see a woman seated on the bench in a park.",
+            "(2) Alice told her if she could see a woman seated on the bench in a park.",
+            "(3) Alice asked her if she could see a woman seated on the bench in a park.",
+            "(4) Alice asked her if she could have seen a woman seated on the bench in a park."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "191",
+        "question": "191. The king said, \"My force will protect the kingdom.\"",
+        "options": [
+            "(1) The king said that his force would protect the kingdom.",
+            "(2) The king said that the king's force will protect the the kingdom.",
+            "(3) The king ordered that our force should protect the barkan kingdom.",
+            "(4) The king commanded that his force will be protected the kingdom."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "192",
+        "question": "192. The student said, \"Let me come in.”",
+        "options": [
+            "(1) The student told that let he be allowed to come in.",
+            "(2) The student said that if he is allowed to come in.",
+            "(3) The student requested to let him come in.",
+            "(4) The student requested that he might be allowed to come in."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "193",
+        "question": "193. He said, \"Babies, drink milk.\"",
+        "options": [
+            "(1) He said that babies drink milk.",
+            "(2) He told that babies should mod drink milk.",
+            "(3) He advised the babies to vood drink milk.",
+            "(4) He said that babies drank milk."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "194",
+        "question": "194. I said, \"I came here yesterday,\"",
+        "options": [
+            "(1) I said that I came here that day.",
+            "(2) I said that go here yesterday.",
+            "(3) I said that I had come there the previous day.",
+            "(4) I say that I went there the previous day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "195",
+        "question": "195. He said, \"The government is writing letters,'",
+        "options": [
+            "(1) He said that the government is writing letters.",
+            "(2) He said that the government  was writing letters.",
+            "(3) He said that the government will write letters.",
+            "(4) He said that the government wrote letters."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "196",
+        "question": "196. He said, \"I have passed the examination.\"",
+        "options": [
+            "(1) He said that he had passed the examination.",
+            "(2) He announced that he has passed the examination.",
+            "(3) He said that he had to pass the examination",
+            "(4) He said that he has passed the examination"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "197",
+        "question": "197. The doctor says, \"It is better you undergo a surgery next week.\"",
+        "options": [
+            "(1) The doctor advised me to undergo a surgery the following week.",
+            "(2) The doctor says that it is better I undergo a surgery the following week.",
+            "(3) The doctor says that it was better I underwent a surgery the coming week.",
+            "(4) The doctor advises that it is better I underwent a surgery the following week."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "198",
+        "question": "198. The teacher asked the student when he would submit his assignment.",
+        "options": [
+            "(1) The teacher said to the student, \"When will you Se submit your assignment?\"",
+            "(2) The teacher asked the student, “When will you submit his assignment ?”",
+            "(3) The teacher asked the student, “When would you submit his assignment ?”",
+            "(4) The teacher asked the student, “When would he submit his assignment ?”"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "199",
+        "question": "199. The Principal asked me whether  I had informed the Chief Guest  the revised schedule the day  before.",
+        "options": [
+            "(1) The Principal said to me, “Did I inform the Chief Guest the revised schedule the day before ?”",
+            "(2) The Principal said to me, “Have I informed the Chief Guest the revised schedule the day before ?”",
+            "(3) The Principal said to me, “Have you informed the Chief Guest the revised schedule yesterday?”",
+            "(4) The Principal said to me, “Did you inform the Chief Guest the revised schedule yesterday ?”"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "200",
+        "question": "200. “Don't play on the grass, boys,”  she said.",
+        "options": [
+            "(1) She ordered the boys “Don't play on the grass.”",
+            "(2) She said to the boys that they should not play on the grass.",
+            "(3) She told the boys that they should not be playing on the grass.",
+            "(4) She told the boys not to play on the grass."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "201",
+        "question": "201. “What a terrible storm it is!” he  said.",
+        "options": [
+            "(1) He exclaimed that it was a terrible storm.",
+            "(2) He exclaimed that it has been a terrible storm.",
+            "(3) He exclaimed that it will be a terrible storm.",
+            "(4) He exclaimed that it is a terrible storm."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "202",
+        "question": "202. The traveller said, “What a  beautiful sight!”",
+        "options": [
+            "(1) The traveller exclaimed that it was an beautiful sight.",
+            "(2) The traveller exclaimed that it was a beautiful sight.",
+            "(3) The traveller said that it was beautiful.",
+            "(4) The traveller remarked the beautiful sight."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "203",
+        "question": "203. The Chief Guest said, “It gives me great pleasure to be here this morning.”",
+        "options": [
+            "(1) The Chief Guest said that that gave me great pleasure to be there that morning.",
+            "(2) The Chief Guest said that it \"gave him great pleasure to “be there that morning.",
+            "(3) The Chief Guest said that it gives him great pleasure to be here that morning.",
+            "(4) The Chief Guest said that it gives him great pleasure to be there that morning."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "204",
+        "question": "204. He said, “What.a lovely voice she  has !”",
+        "options": [
+            "(1) He exclaimed that she had a very lovely voice.",
+            "(2) He exclaimed that she has a very lovely voice.",
+            "(3) He exclaimed that she did not have a lovely voice.",
+            "(4) He exclaimed that she does not have a lovely voice."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "205",
+        "question": "205. He said to me, “Where is the  post office ?”",
+        "options": [
+            "(1) He asked me that where the post office was.",
+            "(2) He asked me where was the post office.",
+            "(3) He wanted to know where the post office was.",
+            "(4) He asked me where the post office was."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "206",
+        "question": "206. My father said, “Honesty is the  best policy.”",
+        "options": [
+            "(1) My father stated that honesty was the best policy.",
+            "(2) My father said that honesty is the best policy.",
+            "(3) My father said that honesty was the best policy.",
+            "(4) My father said that honesty has been the best policy."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "207",
+        "question": "207. She yelled, “Please help me.”",
+        "options": [
+            "(1) She yelled at one for some help.",
+            "(2) Sheyelled for someone to help.",
+            "(3) She yelled for someone to help her.",
+            "(4) She yelled at someone to help her."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "208",
+        "question": "208. He asked me why I was late.",
+        "options": [
+            "(1) He asked me, “Why are you late ?”",
+            "(2) He asked me, “Why I was late?”",
+            "(3) He asked me, “Why you are late?” ",
+            "(4) He asked me, “Why am I late?”"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "209",
+        "question": "209. He said that I needn't wait there.",
+        "options": [
+            "(1). He said, “You needn't wait here.”",
+            "(2) He said, “I needn't wait there.”",
+            "(3) He said, “You needn't wait there.” :",
+            "(4) He said, “I needn't wait here.”"
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "210",
+        "question": "210. I said to the worker, “How do  you like your job?”",
+        "options": [
+            "(1) I told the worker how he liked his job.",
+            "(2) I asked the worker how you like your job.",
+            "(3) I asked the worker how he liked his job.",
+            "(4) I asked the worker how you liked his job."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "211",
+        "question": "211. “I don't know why they haven't  signed the papers and accepted  the gift,” said Crene to me.",
+        "options": [
+            "(1) Crene told me that he didn’t know why they hadn't signed the papers and accepted the",
+            "(2) Crene told me that he don’t know why they haven't signed the papers and accepted the gift.",
+            "(3) Crene told me that I don't know why they haven't signed the papers and accepted the gift.",
+            "(4) Crene said to me that he didn’t know why they hadn't signed the papers and accepted the gift."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "212",
+        "question": "212. She said, “I must have a  computer to prepare a  powerpoint presentation.”",
+        "options": [
+            "(1) She said she had to have a computer to prepare a powerpoint presentation.",
+            "(2) She said she should have a computer to prepare a power point presentation.",
+            "(3) She said she would have a computer to prepare a powerpoint presentation.",
+            "(4) She said she could have a computer to prepare a powerpoint presentation."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "213",
+        "question": "213. \"Don't hesitate to clear your doubts,\" the teacher said.",
+        "options": [
+            "(1) The teacher warned me not to hesitate in clearing my doubts.",
+            "(2) The teacher ordered me not to hesitate in clearing my doubts.",
+            "(3) The teacher persuaded me not to hesitate in clearing my How doubts.",
+            "(4) The teacher requested me not to hesitate in clearing my doubts."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "214",
+        "question": "214. He said, \"I am glad to be here this evening.\"",
+        "options": [
+            "(1) He said that he was glad to be there that evening.",
+            "(2) He said he was glad to be here this evening.",
+            "(3) He says he was glad to be here this evening.",
+            "(4) He asked he is glad to be here this evening."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "215",
+        "question": "215. Mrs. Shankar said, \"I know what it is to be depressed.\"",
+        "options": [
+            "(1) Mrs. Shankar said that she was knowing what it was to be depressed.",
+            "(2) Mrs. Shankar said that she knew what it was to be depressed.",
+            "(3) Mrs. Shankar knows what it is to be depressed.",
+            "(4) Mrs. Shankar is depressed she said."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "216",
+        "question": "216. \"Who now,\" they had asked, \"will listen to our troubles and protect us from the crocodiles ?\"",
+        "options": [
+            "(1) They wanted to know who will listen to their troubles and protect them from the crocodiles.",
+            "(2) They had wanted to know who would listen to their troubles and protect them from the crocodiles.",
+            "(3) They had wanted to know who then would listen to their troubles and protect them from the crocodiles.",
+            "(4) They had wanted to know who will now listen to their troubles and protect them from the crocodiles."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "217",
+        "question": "217. Moti asked Gangu whether the latter was in his senses.",
+        "options": [
+            "(1) \"Are you senseless, Gangu?\" asked Moti.",
+            "(2) \"Hey Gangu, are you in your any senses now ?\" asked Moti",
+            "(3) \"Gangu, have you lost your senses\" asked Moti.",
+            "(4) \"Gangu, are you in your Bil senses?\" asked Moti"
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "218",
+        "question": "218. He said that we are all born to die.",
+        "options": [
+            "(1) He said, \"We have all been born to die.\"",
+            "(2) He exclaimed, \"We were all born to die.\"",
+            "(3) He said, \"We were all born to die.\"",
+            "(4) He said, \"We are all born to die.\""
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "219",
+        "question": "219. He said to me, \"I grew these carrots myself.\"",
+        "options": [
+            "(1) He told me that he grew those carrots himself.",
+            "(2) He told me I grew these carrots myself.",
+            "(3) He told me that he grew these carrots himself.",
+            "(4) He told me that he had grown arby are those carrots himself."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "220",
+        "question": "220. Israt said to Irfat, \"Let's go to Puri for a change.\"",
+        "options": [
+            "(1) Israt proposed to Irfat to go to Puri for a change.",
+            "(2) Israt suggested to Irfat to go to Puri for a change.",
+            "(3) Israt asked Irfat to go to Puri for a change.",
+            "(4) Israt proposed to Irfat that they should go to Puri for a change."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "221",
+        "question": "221. The poor beggar said, “O God, have mercy on my soul.",
+        "options": [
+            "(1) The poor beggar prayed to God to have mercy on his soul.",
+            "(2) The poor beggar, invoking God, implored him to have mercy on his soul.",
+            "(3) The poor beggar exclaimed that God, have mercy on his soul.",
+            "(4) The poor beggar told God to have mercy on his soul. "
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "222",
+        "question": "222. He said to her, \"Why didn't you put on the brakes?",
+        "options": [
+            "(1) He asked her why she hadn't The put on the brakes.abs",
+            "(2) He asked her why she didn't of put on the brake.",
+            "(3) He asked her that why she hadn't put on the brake.",
+            "(4) He told her that why she hadn't put on the brake."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "223",
+        "question": "223. She said to me, \"I took breakfast in the morning.",
+        "options": [
+            "(1) She told me that she took breakfast in the morning.",
+            "(2) She told me that she had taken breakfast in the morning.",
+            "(3) She told me that she has taken breakfast in the morning.",
+            "(4) She said to me that she was Staking breakfast in the morning."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "224",
+        "question": "224. John's father reminded him to take his umbrella.",
+        "options": [
+            "(1) John's father said, \"Remember your umbrella John ?\"",
+            "(2) \"Here, is your umbrella John,\" said his father.",
+            "(3) \"Are you going to take your umbrella or not ?\" said John to his father.",
+            "(4) \"Don't forget to take your umbrella, John\" said his father."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "225",
+        "question": "225. He said, \"He took tea in the morning\".",
+        "options": [
+            "(1) He said that he did take in the morning.",
+            "(2) He said that he had taken tea in the morning.",
+            "(3) He said that he took in the morning.",
+            "(4) He said that he would take tea in the morning."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "226",
+        "question": "226. He requested the boss to let him go on with his project.",
+        "options": [
+            "(1) He said to the boss, \"You better let me go on with my project\".",
+            "(2) He told the boss, \"Please go on with my project \".",
+            "(3) He said to the boss, \"Let me go on with my project please\". ",
+            "(4) He told the boss, \"Go on with my project please\"."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "227",
+        "question": "227. I told her, “It was raining last night when you left”.",
+        "options": [
+            "(1) I told her that it had been raining the previous night. when she had left.",
+            "(2) I told her that it has raining last night when she left.",
+            "(3) I told her that it has been raining the night before when she left.",
+            "(4) I told her that it had been raining last nght when she had left."     
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "228",
+        "question": "228 He said, \"I shall try to bring you the books tomorrow\".",
+        "options": [
+            "(1) He said that he should try to bring me the books the next day. ",
+            "(2) He said that he would try to bring me the books the next day. ",
+            "(3) He said that he would try to bring me the books tomorrow.",
+            "(4) He said that he should try to bring me the books tomorrow."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "229",
+        "question": "229. He said, \"Alas! The little puppy is run over by the car\".",
+        "options": [
+            "(1) He exclaimed, alas, the little puppy was run over by the the car.",
+            "(2) He exclaimed sadly that the little puppy was run over by the car.",
+            "(3) He exclaimed sadly that the little puppy had been run over by the car.",
+            "(4) He exclaimed sadly that the little puppy is run over by the car."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "230",
+        "question": "230. Suresh asked Prasad whether he had watched the cricket match on television the previous night.",
+        "options": [
+            "(1) Suresh said to Prasad, \"Did you watched the cricket match on television last night?\"",
+            "(2) Suresh asked Prasad, \"Did you watch the cricket match on television previous night?\"",
+            "(3) Suresh asked Prasad, \"Have you watched the cricket match on television last night?\"",
+            "(4) Suresh said to Prasad, \"Did you watch the cricket match on television last night?\""
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "231",
+        "question": "231. Father said to me, \"You are idling away your time.\"",
+        "options": [
+            "(1) Father told me that you were idling away your time.",
+            "(2) Father told me that I was idling away my time.",
+            "(3) Father told me that I am idling away my time.",
+            "(4) Father told me that you are idling away your time."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "232",
+        "question": "232. The captain said to his men, \"Fall into line.\"",
+        "options": [
+            "(1) The captain said to his men that they can fall into line.",
+            "(2) The captain commanded his men to fall into line.",
+            "(3) The captain warned his men to fall into line.",
+            "(4) The captain told his men that they should fall into line."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "233",
+        "question": "233. The priest said, \"May God pardon this sinner !\"",
+        "options": [
+            "(1) The priest prayed that God would pardon this sinner.",
+            "(2) The priest prayed that God might pardon that sinner.",
+            "(3) The priest prayed if God will pardon that sinner.",
+            "(4) The priest said that God might pardon the sinner."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "234",
+        "question": "234. Ashmita advised me to go and see a doctor.",
+        "options": [
+            "(1) \"Shouldn't you go and see a doctor?\" asked Ashmita.",
+            "(2) \"You should go and see a doctor,\" said Ashmita.",
+            "(3) Ashmita asked me, \"Will you go and see a doctor?\"",
+            "(4) Ashmita told me, \"Go and see a doctor.\""
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "235",
+        "question": "235. She said to me, \"It has been raining heavily and you cannot go\".",
+        "options": [
+            "(1) She told me that it had been raining heavily and I could not go.",
+            "(2) She told me that it was raining heavily and I could not go.",
+            "(3) She told me that it has been raining heavily and I could not go.",
+            "(4) She told me that it is raining heavily and I could not go."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "236",
+        "question": "236. John said to me, \"Where have you been last night?\"",
+        "options": [
+            "(1) John asked me where had I been the previous night.",
+            "(2) John asked me where I have been the previous night.",
+            "(3) John asked me where I am the previous night.",
+            "(4) John asked me where I had been the previous night."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "237",
+        "question": "237. \"I'm taking my children to the zoo tomorrow\", she said, \"to see the baby white tiger\".",
+        "options": [
+            "(1) She said that she will take the children to the zoo to see the baby white tiger tomorrow.",
+            "(2) She said that she would take the children to the zoo the next day to see the baby white tiger.",
+            "(3) She said that she was taking her children to the zoo the next day to see the baby white tiger.",
+            "(4) She said that she was taking the children to the zoo that day to see the baby white tiger."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "238",
+        "question": "238. She said, \"Mother, please cook me something nice today\".",
+        "options": [
+            "(1) She told her mother to cook her something nice today.",
+            "(2) She ordered her mother to cook her something nice that day.",
+            "(3) She requested her mother to cook her something nice that day.",
+            "(4) She asked her mother if she could cook her something nice that day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "239",
+        "question": "239.John said, \"I shall be 21 tomorrow\".",
+        "options": [
+            "(1) John said that he would be 21 tomorrow.",
+            "(2) John said that he would be 21 the following day.",
+            "(3) John said that he should be 21 the following day.",
+            "(4) John said that I shall be 21 sed bytomorrow."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "240",
+        "question": "240. She asked, \"Is the secretary coming to the meeting?\"",
+        "options": [
+            "(1) She asked that the secretary was coming to the add meeting.",
+            "(2) She asked that if the secretary was coming to the meeting.",
+            "(3) She asked if the secretary is coming to the meeting.",
+            "(4) She asked if the secretary was coming to the meeting."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "241",
+        "question": "241. The convict said, \"Let me speak freely please\".",
+        "options": [
+            "(1) The convict suggested that he must be allowed to speak freely.",
+            "(2) The convict requested that he must be allowed to speak freely.",
+            "(3) The convict requested that he be allowed to speak freely.",
+            "(4) The convict proposed that he might be allowed to speak freely."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "242",
+        "question": "242. Nisha told Monica, \"What a beautiful dress you are wearing!\"",
+        "options": [
+            "(1) Nisha exclaimed that Monica was wearing a very beautiful dress.",
+            "(2) Nisha exclaimed that it is a very beautiful dress.",
+            "(3) Nisha exclaimed that Monica is wearing a very beautiful dress.",
+            "(4) Nisha told Monica that was a beautiful dress."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "243",
+        "question": "243. \"Call the witness\", said the magistrate.",
+        "options": [
+            "(1) The magistrate requested to call the witness.",
+            "(2) The magistrate begged for calling the witness.",
+            "(3) The magistrate ordered to call the witness.",
+            "(4) The magistrate prayed to call the witness."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "244",
+        "question": "244. \"Have you done this sort of work before?\" said his new employer.",
+        "options": [
+            "(1) His new employer asked him whether he has done that sort of work before.",
+            "(2) His new employer asked him whether he has done this sort of work before.",
+            "(3) His new employer asked him whether he had done that sort tains of work before.",
+            "(4) His new employer asked him whether he had done this sort of work before."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "245",
+        "question": "245. Rahul says that Azhar loves cricket.",
+        "options": [
+            "(1) Rahul said, \"Azhar loves cricket\".",
+            "(2) Rahul said, \"Azhar loved cricket\".",
+            "(3) Rahul says, \"Azhar loved cricket\".",
+            "(4) Rahul says, \"Azhar loves cricket\"."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "246",
+        "question": "246. \"I came home last night\", said he.",
+        "options": [
+            "(1) He told that he had come home last night.",
+            "(2) He said that he came home last night.",
+            "(3) He said that he had come home the previous night.",
+            "(4) He says that he came home the previous night."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "247",
+        "question": "247. The beggar said, \"Poverty is a great curse\".",
+        "options": [
+            "(1) The beggar said poverty has a great curse.",
+            "(2) The beggar said that poverty is a great curse.",
+            "(3) The beggar said that poverty was a great curse.",
+            "(4) The beggar said that poverty had been a great curse."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "248",
+        "question": "248. \"If you want to smoke, you'll have to go out\", said the conductor.",
+        "options": [
+            "(1) The conductor ordered me to go out and smoke.",
+            "(2) The conductor said that if I/ he wanted to smoke, I/he would have to go out.",
+            "(3) The conductor told me that smoking is not permitted in the bus.",
+            "(4) The conductor told me that I will have to go out and smoke."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "249",
+        "question": "249. \"Be careful; the steps are very slippery\", I warned him.",
+        "options": [
+            "(1) I warned him to be careful as the steps were very slippery.",
+            "(2) I warned him to be careful as the steps are very slippery.",
+            "(3) I warned him to be careful and ya steps were very slippery.",
+            "(4) I told him to be careful and ose the steps are very slippery."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "250",
+        "question": "250. The old lady declared that she urt was going to walk where she pleased. They had the liberty.",
+        "options": [
+            "(1) The old lady said that, \"I was going to walk where I pleased. Jarly They have the liberty\".",
+            "(2) The old lady: \"I am going to and walk where I please. We have the liberty\".",
+            "(3) The old lady: \"I was going to walk where I pleased. They have the liberty\".",
+            "(4) The old lady: \"I am going to walk where I pleased. They had the liberty\"."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "251",
+        "question": "251. The teacher asked me why I had been absent the day before.",
+        "options": [
+            "(1) The teacher asked me, \"Why were you absent yesterday ?\"",
+            "(2) The teacher asked me, \"Why are you absent yesterday?\"",
+            "(3) The teacher asked me, \"Why are you absent the day before?\"",
+            "(4) The teacher asked me, \"Were you absent the day before ?\""
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "252",
+        "question": "252. Mr Robinson asked his son what he wanted to be when he grew up.",
+        "options": [
+            "(1) \"My son,\" said Mr Robinson, \"what will you be when you grow up ?\"",
+            "(2) \"My son,\" said Mr Robinson, \"what do you want to be when you grow up?\"",
+            "(3) Mr Robinson said, \"My son, what did you want to be when you grew up ?\"",
+            "(4) Mr Robinson said, \"My son, what would you be when you grow up?\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "253",
+        "question": "253. The boys respectfully wished their teacher good morning.",
+        "options": [
+            "(1) \"Good morning,\" said the boys to their teacher.",
+            "(2) \"Good morning,\" said the boys to the teacher.",
+            "(3) \"Good morning, Madam,\" said the boys to the teacher.",
+            "(4) \"Good morning, Madam,\" said the boys to their teacher."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "254",
+        "question": "254. She said, \"I am sorry, I am not able to submit those papers\",",
+        "options": [
+            "(1) She said she was sorry, she is not able to submit those papers.",
+            "(2) She said that she was sorry and she will not be able to submit those papers.",
+            "(3) She apologized for not being VAN able to submit those papers.",
+            "(4) She exclaimed with sorrow that she was sorry and she will not be able to submit those papers."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "255",
+        "question": "255. The girl wondered where the sparrows had gone.",
+        "options": [
+            "(1) The girl said, \"Oh! Where the sparrows have gone?\"",
+            "(2) The girl said, \"Oh! Where are the sparrows?\"",
+            "(3) The girl said, \"Oh! Where had the sparrows gone?\"",
+            "(4) The girl said, \"Oh! Where have the sparrows gone?\""
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "256",
+        "question": "256. She said to me, \"I'm going shopping. Can I get you something?\"",
+        "options": [
+            "(1) She said she was going shopping and said to me if I wanted something.",
+            "(2) She said she was going shopping and asked if I wanted something.",
+            "(3) She said she was going shopping and asked if she could get me something.",
+            "(4) She said she is going shopping and asked if she could get me something."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "257",
+        "question": "257. Ramesh informed his friend that he could make use of his car while he was away.",
+        "options": [
+            "(1) Ramesh said to his friend, \"You will make use of my car while I was away\".",
+            "(2) Ramesh said to his friend, \"Use my car while I go away\".",
+            "(3) Ramesh said to his friend, \"You can make use of my car while I am away\".",
+            "(4) Ramesh asked his friend, \"Will you make use of my car while I am away?\""
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "258",
+        "question": "258. Kala said to Radha, \"Who were you speaking to over the phone?\"",
+        "options": [
+            "(1) Kala asked Radha who she had been speaking to over the phone.",
+            "(2) Kala asked Radha who she has been speaking to over the phone.",
+            "(3) Kala asked Radha that who she was speaking to over the phone.",
+            "(4) Kala asked Radha that who she had been speaking to over the phone."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "259",
+        "question": "259. The king said to his men, \"Do not be afraid of the enemy. Face them bravely.\"",
+        "options": [
+            "(1) The king ordered his men to not be afraid of the enemy and that they had to be faced bravely.",
+            "(2) The king asked his men to not be afraid of the enemy but they should be faced bravely.",
+            "(3) The king advised his men not to be afraid of the enemy but to face them bravely.",
+            "(4) The king told his men not to be afraid of the enemy and they had faced them bravely."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "260",
+        "question": "260. Kannan said to Subha, \"I'll return the book after I have read it\".",
+        "options": [
+            "(1) Kannan told Subha that he will return the book after he has read it.",
+            "(2) Kannan told Subha that he would return the book after he has read it.",
+            "(3) Kannan told Subha that he will return the book after he read it.",
+            "(4) Kannan told Subha that he would return the book after he had read it."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "261",
+        "question": "261. The boss said to his secretary, \"Did you discuss this matter with the manager ?\"",
+        "options": [
+            "(1) The boss asked his secretary whether he discussed that matter with the manager.",
+            "(2) The boss asked his secretary if you have discussed that matter with the manager.",
+            "(3) The boss asked his secretary if he had discussed that matter with the manager.",
+            "(4) The boss asked his secretary whether he has discussed that matter with the manager."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "262",
+        "question": "262. I said to him, 'Will you go to Delhi?'",
+        "options": [
+            "(1) I asked him will he go to Delhi.",
+            "(2) I said to him would he go to Delhi.",
+            "(3) I asked him if he would go to Delhi.",
+            "(4) I said to him would you go to Delhi."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "263",
+        "question": "263. He said, 'I have read this novel.'",
+        "options": [
+            "(1) He said that he has read this novel.",
+            "(2) He said that he had read that novel.",
+            "(3) He said that he read that novel.",
+            "(4) He said that he had read this novel."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "264",
+        "question": "264. Tania said to her friend, 'Can you lend me an umbrella?'",
+        "options": [
+            "(1) Please give me an umbrella Tania requested her friend.",
+            "(2) Will you lend me your umbrella, Tania asked her friend.",
+            "(3) Tania requested her friend to lend her an umbrella.",
+            "(4) Tania asked her friend to give her an umbrella."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "265",
+        "question": "265. Sita said, 'I may go there.'",
+        "options": [
+            "(1) Sita says that she may go there.",
+            "(2) Sita says that she is going there.",
+            "(3) Sita said that she will go there.",
+            "(4) Sita said that she might go there."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "266",
+        "question": "266. My friend requested me to bring him a sandwich.",
+        "options": [
+            "(1) He said, 'My friend, please bring me a sandwich.'",
+            "(2) My friend said, 'Will you bring me a sandwich.'",
+            "(3) 'Please bring me a sandwich', said my friend.",
+            "(4) 'Please bring my friend a sandwich.', said he."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "267",
+        "question": "267. He said, 'If I had the tools I could mend the car.'",
+        "options": [
+            "(1) He said that if he had the tools he could mend the car.",
+            "(2) He tells that he had the tools he could mend the car.",
+            "(3) He said I could mend the car if I have the tools.",
+            "(4) He told he could mend the car."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "268",
+        "question": "268. She said to the children, 'You mustn't play with fire.'",
+        "options": [
+            "(1) She told the children they were not to play with fire.",
+            "(2) She told the children that they mustn't play with fire.",
+            "(3) She told the children not to play with fire.",
+            "(4) She told the children they are not to play with fire."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "269",
+        "question": "269. Everybody says, 'How well she sings!'",
+        "options": [
+            "(1) Everybody comments that she sings well.",
+            "(2) Everybody says how well she sings.",
+            "(3) Everybody tells that she sang very well.",
+            "(4) Everybody says that she sang well."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "270",
+        "question": "270. He says that he is very sorry.",
+        "options": [
+            "(1) He said, 'He was very sorry'.",
+            "(2) He says, 'I am very sorry'.",
+            "(3) He said, 'He is very sorry'.",
+            "(4) He told me, 'I felt sorry'."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "271",
+        "question": "271. Daman says, 'Priya is working in Ahmedabad.'",
+        "options": [
+            "(1) Daman say that Priya was working in Ahmedabad.",
+            "(2) Daman said that Priya was working in Ahmedabad.",
+            "(3) Daman said that Priya works in Ahmedabad.",
+            "(4) Daman says that Priya is working in Ahmedabad."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "272",
+        "question": "272. Anne said, 'It is time to leave for the meeting.'",
+        "options": [
+            "(1) Anne said that it was time to leave for the meeting.",
+            "(2) Anne told that it is time to leave for the meeting.",
+            "(3) Anne said its time to leave for the meeting.",
+            "(4) Anne said that it was time for the meeting."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "273",
+        "question": "273. The old man said that he would soon be leaving the world.",
+        "options": [
+            "(1) The old man said, \"I shall soon be leaving the world.\"",
+            "(2) The old man said, \"I am soon leaving the world.\"",
+            "(3) The old man said, \"I would soon leave the world.\".",
+            "(4) The old man said, \"I am going to leave the world soon.\""
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "274",
+        "question": "274. \"Come home early\" said MrMatthew to his clerk.",
+        "options": [
+            "(1) Mr Matthew told his clerk to come home as early as possible.",
+            "(2) Mr Matthew asked his clerk to be home early.",
+            "(3) Mr Matthew ordered his clerk to come home early.",
+            "(4) Mr Matthew requested his clerk to come home a little early."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "275",
+        "question": "275. I said, \"Water is essential for life.\"",
+        "options": [
+            "(1) Water is essential for life was said by me.",
+            "(2) I told that water was essential for life.",
+            "(3) I exclaimed that water was essential for life.",
+            "(4) I said that water is essential for life."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "276",
+        "question": "276. She asked me if I was going to College.",
+        "options": [
+            "(1) She said, \"Am I going to college?\"",
+            "(2) She said to me, \"Are you going to college ?\"",
+            "(3) She asked me, \"Will you go to college?\"",
+            "(4) She asked to me, \"Was I going to college?\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "277",
+        "question": "277. Iba said that she might go home the next day with her sister.",
+        "options": [
+            "(1) Iba said, \"I could go home tomorrow with my sister.\"",
+            "(2) Iba said, \"I may just go home tomorrow with my sister.\"",
+            "(3) Iba said, \"I can go home tomorrow with my sister.\"",
+            "(4) Iba said, \"I will go home tomorrow with my sister.\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "278",
+        "question": "278. He said, \"I was doing it.\"",
+        "options": [
+            "(1) He said that he had been doing it.",
+            "(2) He said that he had done it.",
+            "(3) He said that he has done it.",
+            "(4) He said that he did it."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "279",
+        "question": "279. The lady asked me how my uncle was.",
+        "options": [
+            "(1) The lady said to me, \"How is your uncle?\"",
+            "(2) The lady asked me, \"How has your uncle been?\"",
+            "(3) The lady said to me, \"How was your uncle?\".",
+            "(4) The lady asked me, \"How is your uncle doing?\""
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "280",
+        "question": "280. He said, \"Honesty is the best policy.\"",
+        "options": [
+            "(1) He said that honesty is the best policy.",
+            "(2) He said that honesty was the best policy.",
+            "(3) He said that honesty had been the best policy.",
+            "(4) He said that honesty has been the best policy."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "281",
+        "question": "281. He said that he intended to leave for Surat that night.",
+        "options": [
+            "(1) \"I intend to leave for Surat that night\" he said.",
+            "(2) \"I intend to left for Surat that night\" he said.",
+            "(3) \"I intended to leave for Surat tonight\" he said.",
+            "(4) \"I intend to leave for Surat tonight\" he said."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "282",
+        "question": "282. The teacher said to him, \"Is poverty not a curse?\"",
+        "options": [
+            "(1) The teacher asked him is poverty not a curse.",
+            "(2) The teacher asked him if poverty was not a curse.",
+            "(3) The teacher asked him was poverty not a curse.",
+            "(4) The teacher asked him whether poverty is not a curse."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "283",
+        "question": "283. The prisoner enquired if a lawyer had been arranged for him.",
+        "options": [
+            "(1) The prisoner enquired, \"Is there a lawyer for me ?\"",
+            "(2) The prisoner, asked, \"Has a lawyer been arranged for me?\"",
+            "(3) The prisoner enquired, \"Had a lawyer been arranged for dado me?\"",
+            "(4) The prisoner said, \"Have you arranged a lawyer for me?\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "284",
+        "question": "284. Phila ordered her brother to turn down the television and let her work in peace.",
+        "options": [
+            "(1) Phila said to her brother, \"Turn down the television that let me do my work in peace.\"",
+            "(2) Phila said to her brother, \"Turn down the television and let me work in peace.\"",
+            "(3) Phila said to her brother, \"Turn down the television to let me do my work in peace.\"",
+            "(4) Phila said to her brother, \"Turned down the television and let me do my work in peace."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "285",
+        "question": "285. You will say, \"I am ill.\"",
+        "options": [
+            "(1) You will say that you are ill.",
+            "(2) You would say that you were ill.",
+            "(3) You would say that you are ill.",
+            "(4) You will say that you were ill."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "286",
+        "question": "286. He bade his friends goodbye.",
+        "options": [
+            "(1) \"I will see you later\" he told his friends.",
+            "(2) \"I am bidding you Goodbye.\"",
+            "(3) He said, \"Goodbye, my friends.\"",
+            "(4) \"Goodbye, my friends\" he was saying to them."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "287",
+        "question": "287. He exclaimed with joy that their team had won the tournament.",
+        "options": [
+            "(1) He said, \"Our team has won tapake the tournament.\"",
+            "(2) He said, \"Wow! Our team won 20 the tournament.\"",
+            "(3) He exclaimed, “Hurrah! Our team has won the tourna- ment!\"",
+            "(4) He said, \"Our team won the tournament.\"  288 His father said that it was time he visited his uncle. (1) \"It was time you visited your uncle\" said his father. (2) \"It is time you visited my uncle\" said his father. (3) \"It is time you visit your uncle\" said his father. (4) \"It is time you visited your uncle\" said his father.  289. The project manager asked Vivek, \"How much time will you take to finish this project?\" (1) The project manager asked Vivek how much time would he take to finish that project. (2) The project manager enquired of Vivek how much time he would take to finish that project. (3) The project manager enquired of Vivek how much time he will be taking to finish that project. (4) The project manager asked Vivek how much time he would take to finish this project.  290. The ox asked the dog not to sit there. (1) The ox said to the dog, \"Not to sit here.\" (2) The ox said to the dog, \"Do not sit here.\". (3) The ox said to the dog, \"Does not sit here.\" (4) The ox said to the dog, \"Did not sit here,   291. He said, \"I am writing a poem.\" (1) He said that I am writing a poem. (2) He said that he is writing a poem. (3) He said that the poem is being written. (4) He said that he was writing a poem.  292. He said, \"Asha washed the clothes.\" (1) He said that Asha washed the clothes. (2) He said that clothes were washed by Asha. (3) He said that Asha had washed the clothes. (4) He said that Asha has washed the clothes.  293. Martha said, \"I am going to Mexico next year.\" (1) Martha said that she had been going to Mexico next year. (2) Martha said that she was going to Mexico next year.  (3) Martha said that she had gone to Mexico next year.  (4) Martha said that she will be going to Mexico next year.   294. My mother said to me, \"Wish you a happy and prosperous life!\"  (1) My mother wished me a hap\u0440\u0443 and prosperous life. (2) My mother told me that I should lead a happy and prosperous life. (3) My mother wished that I enjoy a happy and prosperous life. (4) My mother wished that I should be living a happy and prosperous life.  295. You said to me, \"Why are you talking so much?\" (1) You asked me why, he was talking so much.  (2) You asked me why I was talking so much. (3) You asked me why was I talkin so much. (4) You asked me why I had been talking so much.   296. Sandy said, \"I have already written a letter to my family.\" (1) Sandy said that she had already written a letter to her as a family. (2) Sandy said that she wrote a letter to her family. (3) Sandy said that she was writing a letter to her family.  (4) Sandy said that she will write a letter to her family.  297. You said, \"They were busy the whole day.\" (1) You said that they had busy the whole day. (2) You said that they were busy the whole day. (3) You said that they had been busy the whole day. (4) You said that they have been busy the whole day.  298. I said to her, \"I will have written letters.' (1) I told her that she will have written letters. (2) I told her that she would have written letters. (3) I told her that I will have written letters. (4) I told her that I would have written letters.   299. I asked him, \"Will you go to Agra tomorrow?\" (1) I asked him whether I would go to Agra the next day.  (2) I asked him whether he would go to Agra the next day.  (3) I asked him whether you would go to Agra the next day.  (4) I asked him whether he will go to Agra the next day.   300. I asked him where he would stay. (1) I said to him, \"Where you will stay?\" (2) I asked him, \"Where will you stay?\" (3) I said to him, \"Where I will stay?\" (4) I said to him, \"Where will I stay?\"  301. He said to his son, \"Do not smoke.\" (1) He advised his son do not smoke. (2) He advised his son to not smoke. (3) He advised his son not to smoke. (4) He advised his son that he should not smoke.  302. She said, \"I will now take rest for some time.' (1) She said that I would now take rest for some time. (2) She said that she will then take rest for some time.  (3) She said that she would then take rest for some time.  (4) She said that he will then take rest for some time.  303. The receptionist said to Umesh, \"Please be seated and wait for your turn.\" (1) The receptionist requested Umesh that be seated and wait for his turn. (2) The receptionist told Umesh to please be seated and wait for his turn. (3) The receptionist requested Umesh that he should be seated and wait for his turn.  (4) The receptionist requested Umesh to be seated and to wait for his turn.  304. He exclaimed that it was a very graceful animal. (1) He exclaimed, \"What a graceful animal!\" (2) He observed, \"It is a very graceful animal.\" (3) He said, \"Alas! What a grace- ful animal it is !\" (4) He said, \"It is indeed a graceful animal.\"  305. Caroline said, \"Will you come to my party on Saturday\"? (1) Caroline asked that I come to her party on Saturday. (2) Caroline told to come to her party on Saturday. (3) Caroline asked if I would come to her party on Saturday. (4) Caroline said I should come to her party on Saturday.   306. Babu said, \"I've told my friends you'll be here.\" (1) Babu said that he had told his friends that I would be here. (2) Babu said that he has told his friends that I will be here.  (3) Babu said that he told his friend that I will be there. (4) Babu said that he had told his friends that I would be there.  307. He said to me, \"I will have been digging the ground for half an hour\". (1) He told me that he will have been digging the ground for half an hour. (2) He told me that I will have been digging the ground for half an hour. (3) He told me that he would have been digging the ground for half an hour. (4) He told me that I would have been digging the ground for half an hour.  308. Monica Cheng asked Roeun, \"Are you going to visit Germany?\"  (1) Monica Cheng asked Roeun if he is going to visit Germany. (2) Monica Cheng asked Roeun if he had visited Germany.  (3) Monica Cheng asked Roeun if had gone to Germany.  (4) Monica Cheng asked Roeun if he was going to visit Germany.  309. You said to me, \"I am going to America\". (1) You told me that I was going to America. (2) You said me that you were go- ing to America. (3) You told me that you were go- ing to America. (4) You told me I was going to America.  310. You said to me, \"She is my sis- ter\". (1) You said to me that she was my sister. (2) You told me that she was your sister. (3) You said to me that I was her sister. (4) You said to me that she is my sister.  311. The Professor said, \"Have you cleared your last semester papers ?\" (1) The Professor asked whether I cleared my last semester papers. (2) The Professor asked if I had cleared my previous semester papers. (3) The Professor asked whether I have cleared my last semester papers. (4) The Professor asked if I have cleared my previous semester papers.  312. The traffic constable said to us, \"Stop\". (1) The traffic constable ordered us to stop. (2) We were asked by the traffic constable to stop. (3) The traffic constable requested us to stop. (4) The traffic constable ordered that we were made to stop.   313. \"I went for a long walk yesterday\", said Monikaviya. (1) Monikaviya said that I went for a long walk yesterday.  (2) Monikaviya said that she had gone for a long walk the day before. (3) Monikaviya said that she had gone for a long walk yester- day. (4) Monikaviya said that she went for a long walk the day before.  314. \"Alas! How I have wasted my fortune!\" said he. (1) He confessed with regret that he had been wasting his fortune. (2) He confessed with regret that he had been very extravagant. (3) He confessed with regret that I have wasted my fortune. (4) He confessed with regret that he had wasted his fortune.   315. Mr. Ronald said, \"Don't vote for Otis because he is irresponsible\". (1) Mr. Ronald said not to vote for Otis because he was irresponsible. (2) Mr. Ronald told us don't vote for Otis because he isn't ir- responsible. (3) Mr. Ronald told us not to vote for Otis because he lacked responsibility. (4) Mr. Ronald told us not to vote for Otis because he had been irresponsible.  316. He said, \"I had a wonderful dream last night\". (1) He said that he saw a wonderful dream last night. (2) He said that he had seen a wonderful dream yesterday. (3) He said that last night he had a wonderful dream. (4) He said that he had a wonderful dream the previous by night.  317. He said, \"I am buying a new pen\". (1) He said that he bought a new pen. (2) He said that he was buying a new pen. (3) He said that he had been buying a new pen. (4) He said that he is buying a new pen.  318. He bade his love goodbye.  (1) He said, \"Goodbye\". (2) He wished his love, \"Goodbye\". (3) He exclaimed, \"Goodbye, love\". (4) He said, \"Goodbye, my love\".   319. \"You did not return your book yesterday,\" said the librarian.  (1) The librarian said that he had not returned his book the previous day. (2) The librarian said that he had not returned his book yesterday. (3) The librarian said the book not been returned the previous day. (4) The librarian said that you had not returned your book yesterday.   320. \"You are all doing very well,\" said Mr. Jones. (1) Mr. Jones said that we are all doing well. (2) Mr. Jones said that they were all doing well. (3) Mr. Jones said that they were all doing very well. (4) Mr. Jones said that you are all doing very well.  321. \"I finished it several days ago,\" said Jack. (1) Jack said that he finished it several days previously.  (2) Jack said that he had finished it several days earlier.  (3) Jack said that he finished it several days earlier. (4) Jack said that he finish it billt hog several days ago.   322. \"I gave the packet to Tom, who kept it a long time,\" said Pamela. (1) Pamela said that she had gave the packet to Tom, who kept it a long time. (2) Pamela said that she had given the packet to Tom, to keep for a long time. (3) Pamela said that she had given the packet to Tom, who kept it a long time. (4) Pamela said that she had given the packet to Tom, who kept it for long time.  323. \"I was digging the garden when the doctor arrived,\" replied Harry. (1) Harry said that he was digging the garden when the doctor arrived. (2) Harry said that he had been digging the garden when the doctor arrived. (3) Harry said that he had been in digging the garden when the doctor arrive. (4) Harry says that he was digging the garden when the doctor arrived.  324. \"I would have been surprised if you had passed the examination,\" said the former master. (1) The former master said that it would have surprised him if I had passed. (2) The former master was surprised if I passed the examination. (3) The former master said that he should be surprised if I had passed. (4) The former master said that he would have been surprised if I had passed the examination.  325. \"I will put this key here.\" said the caretaker. (1) The caretaker says that he would put the key there. (2) The caretaker said that he will put the key there.  (3) The caretaker said that he would put the key there.  (4) The caretaker says that he would put the key here.   326. \"I shall go tomorrow,\" he said.  (1) He said that he would go the next day. (2) He said that he shall go the next day. (3) He said that he should go tomorrow. (4) He said that he would go tomorrow.  327. Walter said, \"I cannot do it now\".  (1) Walter says that he cannot it now. (2) Walter said that he could not do it now. (3) Walter says that he cannot do it then. (4) Walter said that he could not do it then.  328. The master said that he would see me the next day. (1) \"You will be seen by me tomorrow,\" said the master.  (2) \"I will see you tomorrow,\" said the master. (3) \"Tomorrow, I will see you,\" says the master. (4) \"I will be seeing you tomorrow,\" said the master.   329. Father told Peter to clean his shoes. (1) \"Clean your shoes, Peter,\" says father. (2) \"Clean your shoes, Peter,\" told father. (3) \"Clean your shoes, Peter,\" asked father. (4) \"Clean your shoes, Peter,\" said father.   330. The girl said, \"How happy I am !\"  (1) The girl exclaimed that she is very happy. (2) The girl said how happy she was. (3) The girl said that she is very happy. (4) The girl exclaimed that she was very happ"
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "288",
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "289",
+        "question": "289. The project manager asked Vivek, \"How much time will you take to finish this project?\"",
+        "options": [
+            "(1) The project manager asked Vivek how much time would he take to finish that project.",
+            "(2) The project manager enquired of Vivek how much time he would take to finish that project.",
+            "(3) The project manager enquired of Vivek how much time he will be taking to finish that project.",
+            "(4) The project manager asked Vivek how much time he would take to finish this project."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "290",
+        "question": "290. The ox asked the dog not to sit there.",
+        "options": [
+            "(1) The ox said to the dog, \"Not to sit here.\"",
+            "(2) The ox said to the dog, \"Do not sit here.\".",
+            "(3) The ox said to the dog, \"Does not sit here.\"",
+            "(4) The ox said to the dog, \"Did not sit here,"
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "291",
+        "question": "291. He said, \"I am writing a poem.\"",
+        "options": [
+            "(1) He said that I am writing a poem.",
+            "(2) He said that he is writing a poem.",
+            "(3) He said that the poem is being written.",
+            "(4) He said that he was writing a poem."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "292",
+        "question": "292. He said, \"Asha washed the clothes.\"",
+        "options": [
+            "(1) He said that Asha washed the clothes.",
+            "(2) He said that clothes were washed by Asha.",
+            "(3) He said that Asha had washed the clothes.",
+            "(4) He said that Asha has washed the clothes."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "293",
+        "question": "293. Martha said, \"I am going to Mexico next year.\"",
+        "options": [
+            "(1) Martha said that she had been going to Mexico next year.",
+            "(2) Martha said that she was going to Mexico next year.",
+            "(3) Martha said that she had gone to Mexico next year.",
+            "(4) Martha said that she will be going to Mexico next year."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "294",
+        "question": "294. My mother said to me, \"Wish you a happy and prosperous life!\"",
+        "options": [
+            "(1) My mother wished me a hap\u0440\u0443 and prosperous life.",
+            "(2) My mother told me that I should lead a happy and prosperous life.",
+            "(3) My mother wished that I enjoy a happy and prosperous life.",
+            "(4) My mother wished that I should be living a happy and prosperous life."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "295",
+        "question": "295. You said to me, \"Why are you talking so much?\"",
+        "options": [
+            "(1) You asked me why, he was talking so much.",
+            "(2) You asked me why I was talking so much.",
+            "(3) You asked me why was I talkin so much.",
+            "(4) You asked me why I had been talking so much."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "296",
+        "question": "296. Sandy said, \"I have already written a letter to my family.\"",
+        "options": [
+            "(1) Sandy said that she had already written a letter to her as a family.",
+            "(2) Sandy said that she wrote a letter to her family.",
+            "(3) Sandy said that she was writing a letter to her family.",
+            "(4) Sandy said that she will write a letter to her family."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "297",
+        "question": "297. You said, \"They were busy the whole day.\"",
+        "options": [
+            "(1) You said that they had busy the whole day.",
+            "(2) You said that they were busy the whole day.",
+            "(3) You said that they had been busy the whole day.",
+            "(4) You said that they have been busy the whole day."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "298",
+        "question": "298. I said to her, \"I will have written letters.'",
+        "options": [
+            "(1) I told her that she will have written letters.",
+            "(2) I told her that she would have written letters.",
+            "(3) I told her that I will have written letters.",
+            "(4) I told her that I would have written letters."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "299",
+        "question": "299. I asked him, \"Will you go to Agra tomorrow?\"",
+        "options": [
+            "(1) I asked him whether I would go to Agra the next day.",
+            "(2) I asked him whether he would go to Agra the next day.",
+            "(3) I asked him whether you would go to Agra the next day.",
+            "(4) I asked him whether he will go to Agra the next day."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "300",
+        "question": "300. I asked him where he would stay.",
+        "options": [
+            "(1) I said to him, \"Where you will stay?\"",
+            "(2) I asked him, \"Where will you stay?\"",
+            "(3) I said to him, \"Where I will stay?\"",
+            "(4) I said to him, \"Where will I stay?\""
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "301",
+        "question": "301. He said to his son, \"Do not smoke.\"",
+        "options": [
+            "(1) He advised his son do not smoke.",
+            "(2) He advised his son to not smoke.",
+            "(3) He advised his son not to smoke.",
+            "(4) He advised his son that he should not smoke."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "302",
+        "question": "302. She said, \"I will now take rest for some time.'",
+        "options": [
+            "(1) She said that I would now take rest for some time.",
+            "(2) She said that she will then take rest for some time.",
+            "(3) She said that she would then take rest for some time.",
+            "(4) She said that he will then take rest for some time."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "303",
+        "question": "303. The receptionist said to Umesh, \"Please be seated and wait for your turn.\"",
+        "options": [
+            "(1) The receptionist requested Umesh that be seated and wait for his turn.",
+            "(2) The receptionist told Umesh to please be seated and wait for his turn.",
+            "(3) The receptionist requested Umesh that he should be seated and wait for his turn.",
+            "(4) The receptionist requested Umesh to be seated and to wait for his turn."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "304",
+        "question": "304. He exclaimed that it was a very graceful animal.",
+        "options": [
+            "(1) He exclaimed, \"What a graceful animal!\"",
+            "(2) He observed, \"It is a very graceful animal.\"",
+            "(3) He said, \"Alas! What a grace- ful animal it is !\"",
+            "(4) He said, \"It is indeed a graceful animal.\""
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "305",
+        "question": "305. Caroline said, \"Will you come to my party on Saturday\"?",
+        "options": [
+            "(1) Caroline asked that I come to her party on Saturday.",
+            "(2) Caroline told to come to her party on Saturday.",
+            "(3) Caroline asked if I would come to her party on Saturday.",
+            "(4) Caroline said I should come to her party on Saturday."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "306",
+        "question": "306. Babu said, \"I've told my friends you'll be here.\"",
+        "options": [
+            "(1) Babu said that he had told his friends that I would be here.",
+            "(2) Babu said that he has told his friends that I will be here.",
+            "(3) Babu said that he told his friend that I will be there.",
+            "(4) Babu said that he had told his friends that I would be there."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "307",
+        "question": "307. He said to me, \"I will have been digging the ground for half an hour\".",
+        "options": [
+            "(1) He told me that he will have been digging the ground for half an hour.",
+            "(2) He told me that I will have been digging the ground for half an hour.",
+            "(3) He told me that he would have been digging the ground for half an hour.",
+            "(4) He told me that I would have been digging the ground for half an hour."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "308",
+        "question": "308. Monica Cheng asked Roeun, \"Are you going to visit Germany?\"",
+        "options": [
+            "(1) Monica Cheng asked Roeun if he is going to visit Germany.",
+            "(2) Monica Cheng asked Roeun if he had visited Germany.",
+            "(3) Monica Cheng asked Roeun if had gone to Germany.",
+            "(4) Monica Cheng asked Roeun if he was going to visit Germany."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "309",
+        "question": "309. You said to me, \"I am going to America\".",
+        "options": [
+            "(1) You told me that I was going to America.",
+            "(2) You said me that you were go- ing to America.",
+            "(3) You told me that you were go- ing to America.",
+            "(4) You told me I was going to America."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "310",
+        "question": "310. You said to me, \"She is my sis- ter\".",
+        "options": [
+            "(1) You said to me that she was my sister.",
+            "(2) You told me that she was your sister.",
+            "(3) You said to me that I was her sister.",
+            "(4) You said to me that she is my sister."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "311",
+        "question": "311. The Professor said, \"Have you cleared your last semester papers ?\"",
+        "options": [
+            "(1) The Professor asked whether I cleared my last semester papers.",
+            "(2) The Professor asked if I had cleared my previous semester papers.",
+            "(3) The Professor asked whether I have cleared my last semester papers.",
+            "(4) The Professor asked if I have cleared my previous semester papers."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "312",
+        "question": "312. The traffic constable said to us, \"Stop\".",
+        "options": [
+            "(1) The traffic constable ordered us to stop.",
+            "(2) We were asked by the traffic constable to stop.",
+            "(3) The traffic constable requested us to stop.",
+            "(4) The traffic constable ordered that we were made to stop."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "313",
+        "question": "313. \"I went for a long walk yesterday\", said Monikaviya.",
+        "options": [
+            "(1) Monikaviya said that I went for a long walk yesterday.",
+            "(2) Monikaviya said that she had gone for a long walk the day before.",
+            "(3) Monikaviya said that she had gone for a long walk yester- day.",
+            "(4) Monikaviya said that she went for a long walk the day before."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "314",
+        "question": "314. \"Alas! How I have wasted my fortune!\" said he.",
+        "options": [
+            "(1) He confessed with regret that he had been wasting his fortune.",
+            "(2) He confessed with regret that he had been very extravagant.",
+            "(3) He confessed with regret that I have wasted my fortune.",
+            "(4) He confessed with regret that he had wasted his fortune."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "315",
+        "question": "315. Mr. Ronald said, \"Don't vote for Otis because he is irresponsible\".",
+        "options": [
+            "(1) Mr. Ronald said not to vote for Otis because he was irresponsible.",
+            "(2) Mr. Ronald told us don't vote for Otis because he isn't ir- responsible.",
+            "(3) Mr. Ronald told us not to vote for Otis because he lacked responsibility.",
+            "(4) Mr. Ronald told us not to vote for Otis because he had been irresponsible."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "316",
+        "question": "316. He said, \"I had a wonderful dream last night\".",
+        "options": [
+            "(1) He said that he saw a wonderful dream last night.",
+            "(2) He said that he had seen a wonderful dream yesterday.",
+            "(3) He said that last night he had a wonderful dream.",
+            "(4) He said that he had a wonderful dream the previous by night."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "317",
+        "question": "317. He said, \"I am buying a new pen\".",
+        "options": [
+            "(1) He said that he bought a new pen.",
+            "(2) He said that he was buying a new pen.",
+            "(3) He said that he had been buying a new pen.",
+            "(4) He said that he is buying a new pen."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "318",
+        "question": "318. He bade his love goodbye.",
+        "options": [
+            "(1) He said, \"Goodbye\".",
+            "(2) He wished his love, \"Goodbye\".",
+            "(3) He exclaimed, \"Goodbye, love\".",
+            "(4) He said, \"Goodbye, my love\"."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "319",
+        "question": "319. \"You did not return your book yesterday,\" said the librarian.",
+        "options": [
+            "(1) The librarian said that he had not returned his book the previous day.",
+            "(2) The librarian said that he had not returned his book yesterday.",
+            "(3) The librarian said the book not been returned the previous day.",
+            "(4) The librarian said that you had not returned your book yesterday."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "320",
+        "question": "320. \"You are all doing very well,\" said Mr. Jones.",
+        "options": [
+            "(1) Mr. Jones said that we are all doing well.",
+            "(2) Mr. Jones said that they were all doing well.",
+            "(3) Mr. Jones said that they were all doing very well.",
+            "(4) Mr. Jones said that you are all doing very well."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "321",
+        "question": "321. \"I finished it several days ago,\" said Jack.",
+        "options": [
+            "(1) Jack said that he finished it several days previously.",
+            "(2) Jack said that he had finished it several days earlier.",
+            "(3) Jack said that he finished it several days earlier.",
+            "(4) Jack said that he finish it billt hog several days ago."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "322",
+        "question": "322. \"I gave the packet to Tom, who kept it a long time,\" said Pamela.",
+        "options": [
+            "(1) Pamela said that she had gave the packet to Tom, who kept it a long time.",
+            "(2) Pamela said that she had given the packet to Tom, to keep for a long time.",
+            "(3) Pamela said that she had given the packet to Tom, who kept it a long time.",
+            "(4) Pamela said that she had given the packet to Tom, who kept it for long time."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "323",
+        "question": "323. \"I was digging the garden when the doctor arrived,\" replied Harry.",
+        "options": [
+            "(1) Harry said that he was digging the garden when the doctor arrived.",
+            "(2) Harry said that he had been digging the garden when the doctor arrived.",
+            "(3) Harry said that he had been in digging the garden when the doctor arrive.",
+            "(4) Harry says that he was digging the garden when the doctor arrived."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "324",
+        "question": "324. \"I would have been surprised if you had passed the examination,\" said the former master.",
+        "options": [
+            "(1) The former master said that it would have surprised him if I had passed.",
+            "(2) The former master was surprised if I passed the examination.",
+            "(3) The former master said that he should be surprised if I had passed.",
+            "(4) The former master said that he would have been surprised if I had passed the examination."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "325",
+        "question": "325. \"I will put this key here.\" said the caretaker.",
+        "options": [
+            "(1) The caretaker says that he would put the key there.",
+            "(2) The caretaker said that he will put the key there.",
+            "(3) The caretaker said that he would put the key there.",
+            "(4) The caretaker says that he would put the key here."
+        ],
+        "correct_option": "3"
+    },
+    {
+        "question_id": "326",
+        "question": "326. \"I shall go tomorrow,\" he said.",
+        "options": [
+            "(1) He said that he would go the next day.",
+            "(2) He said that he shall go the next day.",
+            "(3) He said that he should go tomorrow.",
+            "(4) He said that he would go tomorrow."
+        ],
+        "correct_option": "1"
+    },
+    {
+        "question_id": "327",
+        "question": "327. Walter said, \"I cannot do it now\".",
+        "options": [
+            "(1) Walter says that he cannot it now.",
+            "(2) Walter said that he could not do it now.",
+            "(3) Walter says that he cannot do it then.",
+            "(4) Walter said that he could not do it then."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "328",
+        "question": "328. The master said that he would see me the next day.",
+        "options": [
+            "(1) \"You will be seen by me tomorrow,\" said the master.",
+            "(2) \"I will see you tomorrow,\" said the master.",
+            "(3) \"Tomorrow, I will see you,\" says the master.",
+            "(4) \"I will be seeing you tomorrow,\" said the master."
+        ],
+        "correct_option": "2"
+    },
+    {
+        "question_id": "329",
+        "question": "329. Father told Peter to clean his shoes.",
+        "options": [
+            "(1) \"Clean your shoes, Peter,\" says father.",
+            "(2) \"Clean your shoes, Peter,\" told father.",
+            "(3) \"Clean your shoes, Peter,\" asked father.",
+            "(4) \"Clean your shoes, Peter,\" said father."
+        ],
+        "correct_option": "4"
+    },
+    {
+        "question_id": "330",
+        "question": "330. The girl said, \"How happy I am !\"",
+        "options": [
+            "(1) The girl exclaimed that she is very happy.",
+            "(2) The girl said how happy she was.",
+            "(3) The girl said that she is very happy.",
+            "(4) The girl exclaimed that she was very happ"
+        ],
+        "correct_option": "4"
+    }
+]
