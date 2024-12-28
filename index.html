@@ -135,83 +135,71 @@
 </div>
 
 <script>
-    // Import the functions you need from the SDKs you need
     import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
-    import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-analytics.js";
-    // TODO: Add SDKs for Firebase products that you want to use
-    // https://firebase.google.com/docs/web/setup#available-libraries
+    import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-database.js";
     
-    // Your web app's Firebase configuration
-    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    // Firebase configuration
     const firebaseConfig = {
-    apiKey: "AIzaSyCOr-Wzlh7KuQtl22zuv82P64fpAH3Mlic",
-    authDomain: "quiz-c6e82.firebaseapp.com",
-    projectId: "quiz-c6e82",
-    storageBucket: "quiz-c6e82.firebasestorage.app",
-    messagingSenderId: "942915077506",
-    appId: "1:942915077506:web:dc38f558c5a326c7e47b9b",
-    measurementId: "G-J99771SJCT"
+        apiKey: "AIzaSyCOr-Wzlh7KuQtl22zuv82P64fpAH3Mlic",
+        authDomain: "quiz-c6e82.firebaseapp.com",
+        projectId: "quiz-c6e82",
+        storageBucket: "quiz-c6e82.firebasestorage.app",
+        messagingSenderId: "942915077506",
+        appId: "1:942915077506:web:dc38f558c5a326c7e47b9b",
+        measurementId: "G-J99771SJCT"
     };
     
     // Initialize Firebase
     const app = initializeApp(firebaseConfig);
-    const analytics = getAnalytics(app);
-
+    const database = getDatabase(app);
+    
+    // Global variables
     let userID = "";
-
-    let userID = "";
-
+    let scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+    let questions = [];
+    let currentQuestionIndex = 0;
+    
+    // Start quiz with or without User ID
     function startQuiz() {
         const input = document.getElementById("userID").value.trim();
     
         if (input) {
-            // Save the User ID and load progress
             userID = input;
             alert(`Welcome back, User ID: ${userID}`);
             loadUserProgress(userID);
         } else {
-            // No User ID: Play without saving progress
-            userID = ""; // Ensure no ID is saved
+            userID = ""; // No ID, no saving progress
             alert("Playing without saving progress. Enter a User ID next time to track progress.");
-            resetScoreboard(); // Start fresh
+            resetScoreboard();
         }
     }
-
     
-    
-    
-    let questions = [];
-    let currentQuestionIndex = 0;
-
-    function loadQuiz() {
+    // Load quiz from selected JSON
+    async function loadQuiz() {
         const selectedJSON = document.getElementById('jsonSelector').value;
-
-        fetch(selectedJSON)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`HTTP error! Status: ${response.status}`);
-                }
-                return response.json();
-            })
-            .then(jsonData => {
-                questions = jsonData;
-                currentQuestionIndex = 0;
-                displayQuestion();
-            })
-            .catch(error => alert('Failed to load quiz: ' + error.message));
+    
+        try {
+            const response = await fetch(selectedJSON);
+            if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+    
+            questions = await response.json();
+            currentQuestionIndex = 0;
+            displayQuestion();
+        } catch (error) {
+            alert('Failed to load quiz: ' + error.message);
+        }
     }
-
+    
+    // Display a question
     function displayQuestion() {
         if (currentQuestionIndex < 0 || currentQuestionIndex >= questions.length) return;
-
+    
         const question = questions[currentQuestionIndex];
-
         document.getElementById('questionNumber').textContent = `Question ${question.question_id}`;
         document.getElementById('questionText').textContent = question.question;
-
+    
         const optionsContainer = document.getElementById('optionsContainer');
         optionsContainer.innerHTML = '';
-
         question.options.forEach((option, index) => {
             const button = document.createElement('button');
             button.textContent = option;
@@ -219,20 +207,12 @@
             optionsContainer.appendChild(button);
         });
     }
-
+    
+    // Check the answer
     function checkAnswer(selectedOption) {
         const question = questions[currentQuestionIndex];
         const correctOption = parseInt(question.correct_option, 10);
-
-        const optionsContainer = document.getElementById('optionsContainer');
-        Array.from(optionsContainer.children).forEach((button, index) => {
-            button.classList.remove('correct', 'wrong');
-            if (index + 1 === correctOption) {
-                button.classList.add('correct');
-            } else if (index + 1 === selectedOption) {
-                button.classList.add('wrong');
-            }
-        });
+    
         scoreData.totalAttempted++;
         if (selectedOption === correctOption) {
             scoreData.correctAnswers++;
@@ -240,116 +220,47 @@
             scoreData.wrongAnswers++;
         }
     
-        saveUserProgress(); // Save progress to Firebase
+        saveUserProgress();
         updateScoreboard();
     }
-
-    function prevQuestion() {
-        if (currentQuestionIndex > 0) {
-            currentQuestionIndex--;
-            displayQuestion();
-        }
-    }
-
-    function nextQuestion() {
-        if (currentQuestionIndex < questions.length - 1) {
-            currentQuestionIndex++;
-            displayQuestion();
-        }
-    }
-
-    function randomQuestion() {
-        currentQuestionIndex = Math.floor(Math.random() * questions.length);
-        displayQuestion();
-    }
-
-    function jumpToQuestion() {
-        const jumpInput = document.getElementById('jumpInput');
-        const questionNumber = parseInt(jumpInput.value, 10);
-        if (questionNumber >= 1 && questionNumber <= questions.length) {
-            currentQuestionIndex = questionNumber - 1;
-            displayQuestion();
-        } else {
-            alert('Invalid question number');
-        }
-    }
-
-    // Load the default quiz on page load
-    loadQuiz();
-
+    
+    // Save user progress
     function saveUserProgress() {
-        if (!userID) {
-            console.log("No User ID provided. Progress will not be saved.");
-            return;
-        }
-    
-        const userData = {
-            totalAttempted: scoreData.totalAttempted,
-            correctAnswers: scoreData.correctAnswers,
-            wrongAnswers: scoreData.wrongAnswers,
-            lastQuestionIndex: currentQuestionIndex
-        };
-    
-        firebase.database().ref('users/' + userID).set(userData)
-            .then(() => console.log("Progress saved successfully!"))
-            .catch(error => console.error("Error saving progress:", error));
+        if (!userID) return;
+        const userData = { ...scoreData, lastQuestionIndex: currentQuestionIndex };
+        set(ref(database, 'users/' + userID), userData);
     }
-
-    function loadUserProgress(id) {
-        if (!id) {
-            console.log("No User ID provided. Starting fresh.");
-            resetScoreboard();
-            return;
-        }
     
-        firebase.database().ref('users/' + id).once('value')
+    // Load user progress
+    function loadUserProgress(id) {
+        if (!id) return;
+        get(child(ref(database), 'users/' + id))
             .then(snapshot => {
                 if (snapshot.exists()) {
-                    const userData = snapshot.val();
-                    scoreData.totalAttempted = userData.totalAttempted || 0;
-                    scoreData.correctAnswers = userData.correctAnswers || 0;
-                    scoreData.wrongAnswers = userData.wrongAnswers || 0;
-                    currentQuestionIndex = userData.lastQuestionIndex || 0;
+                    Object.assign(scoreData, snapshot.val());
+                    currentQuestionIndex = snapshot.val().lastQuestionIndex || 0;
                     updateScoreboard();
                     displayQuestion();
                 } else {
-                    alert(`No data found for User ID: ${id}. Starting fresh.`);
                     resetScoreboard();
                 }
-            })
-            .catch(error => console.error("Error loading progress:", error));
+            });
     }
-
+    
+    // Update scoreboard
     function updateScoreboard() {
         document.getElementById("totalAttempted").textContent = scoreData.totalAttempted;
         document.getElementById("correctAnswers").textContent = scoreData.correctAnswers;
         document.getElementById("wrongAnswers").textContent = scoreData.wrongAnswers;
     }
-
-
-
+    
+    // Reset scoreboard
     function resetScoreboard() {
-            scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
-            currentQuestionIndex = 0;
-            updateScoreboard();
-            displayQuestion();
-        }
-        function resetUserProgress() {
-        firebase.database().ref('users/' + userID).set({
-            totalAttempted: 0,
-            correctAnswers: 0,
-            wrongAnswers: 0,
-            lastQuestionIndex: 0
-        }).then(() => {
-            alert("Progress reset successfully.");
-            scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
-            currentQuestionIndex = 0;
-            updateScoreboard();
-            displayQuestion();
-        });
+        scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+        currentQuestionIndex = 0;
+        updateScoreboard();
+        displayQuestion();
     }
-
-
 
 
     
