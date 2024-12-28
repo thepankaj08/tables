@@ -92,6 +92,12 @@
     </style>
 </head>
 <body>
+    <div id="userIDInput" style="text-align: center; margin-bottom: 20px;">
+    <label for="userID">Enter User ID (optional):</label>
+    <input type="text" id="userID" placeholder="e.g., user123" />
+    <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+
 
 <div class="quiz-container">
     <h1>Quiz App</h1>
@@ -113,6 +119,7 @@
     </div>
 
     <div class="controls">
+        <button onclick="resetUserProgress()">Reset Progress</button>
         <button onclick="prevQuestion()">Previous</button>
         <button onclick="nextQuestion()">Next</button>
         <button onclick="randomQuestion()">Random</button>
@@ -122,6 +129,51 @@
 </div>
 
 <script>
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+    
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+    apiKey: "AIzaSyCOr-Wzlh7KuQtl22zuv82P64fpAH3Mlic",
+    authDomain: "quiz-c6e82.firebaseapp.com",
+    projectId: "quiz-c6e82",
+    storageBucket: "quiz-c6e82.firebasestorage.app",
+    messagingSenderId: "942915077506",
+    appId: "1:942915077506:web:dc38f558c5a326c7e47b9b",
+    measurementId: "G-J99771SJCT"
+    };
+    
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+
+    let userID = "";
+
+    let userID = "";
+
+    function startQuiz() {
+        const input = document.getElementById("userID").value.trim();
+    
+        if (input) {
+            // Save the User ID and load progress
+            userID = input;
+            alert(`Welcome back, User ID: ${userID}`);
+            loadUserProgress(userID);
+        } else {
+            // No User ID: Play without saving progress
+            userID = ""; // Ensure no ID is saved
+            alert("Playing without saving progress. Enter a User ID next time to track progress.");
+            resetScoreboard(); // Start fresh
+        }
+    }
+
+    
+    
+    
     let questions = [];
     let currentQuestionIndex = 0;
 
@@ -175,6 +227,15 @@
                 button.classList.add('wrong');
             }
         });
+        scoreData.totalAttempted++;
+        if (selectedOption === correctOption) {
+            scoreData.correctAnswers++;
+        } else {
+            scoreData.wrongAnswers++;
+        }
+    
+        saveUserProgress(); // Save progress to Firebase
+        updateScoreboard();
     }
 
     function prevQuestion() {
@@ -209,6 +270,61 @@
 
     // Load the default quiz on page load
     loadQuiz();
+
+    function saveUserProgress() {
+        if (!userID) {
+            console.log("No User ID provided. Progress will not be saved.");
+            return;
+        }
+    
+        const userData = {
+            totalAttempted: scoreData.totalAttempted,
+            correctAnswers: scoreData.correctAnswers,
+            wrongAnswers: scoreData.wrongAnswers,
+            lastQuestionIndex: currentQuestionIndex
+        };
+    
+        firebase.database().ref('users/' + userID).set(userData)
+            .then(() => console.log("Progress saved successfully!"))
+            .catch(error => console.error("Error saving progress:", error));
+    }
+
+    function loadUserProgress(id) {
+        if (!id) {
+            console.log("No User ID provided. Starting fresh.");
+            resetScoreboard();
+            return;
+        }
+    
+        firebase.database().ref('users/' + id).once('value')
+            .then(snapshot => {
+                if (snapshot.exists()) {
+                    const userData = snapshot.val();
+                    scoreData.totalAttempted = userData.totalAttempted || 0;
+                    scoreData.correctAnswers = userData.correctAnswers || 0;
+                    scoreData.wrongAnswers = userData.wrongAnswers || 0;
+                    currentQuestionIndex = userData.lastQuestionIndex || 0;
+                    updateScoreboard();
+                    displayQuestion();
+                } else {
+                    alert(`No data found for User ID: ${id}. Starting fresh.`);
+                    resetScoreboard();
+                }
+            })
+            .catch(error => console.error("Error loading progress:", error));
+    }
+
+
+    function resetScoreboard() {
+        scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+        currentQuestionIndex = 0;
+        updateScoreboard();
+        displayQuestion();
+    }
+
+
+
+    
 </script>
 
 </body>
