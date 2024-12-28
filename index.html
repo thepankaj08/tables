@@ -93,9 +93,15 @@
 </head>
 <body>
     <div id="userIDInput" style="text-align: center; margin-bottom: 20px;">
-    <label for="userID">Enter User ID (optional):</label>
-    <input type="text" id="userID" placeholder="e.g., user123" />
-    <button onclick="startQuiz()">Start Quiz</button>
+        <label for="userID">Enter User ID (optional):</label>
+        <input type="text" id="userID" placeholder="e.g., user123" />
+        <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+    <div id="scoreboard" style="margin-top: 20px; text-align: center;">
+        <h3>Scoreboard</h3>
+        <p>Total Attempted: <span id="totalAttempted">0</span></p>
+        <p>Correct Answers: <span id="correctAnswers">0</span></p>
+        <p>Wrong Answers: <span id="wrongAnswers">0</span></p>
     </div>
 
 
@@ -314,13 +320,35 @@
             .catch(error => console.error("Error loading progress:", error));
     }
 
+    function updateScoreboard() {
+        document.getElementById("totalAttempted").textContent = scoreData.totalAttempted;
+        document.getElementById("correctAnswers").textContent = scoreData.correctAnswers;
+        document.getElementById("wrongAnswers").textContent = scoreData.wrongAnswers;
+    }
+
+
 
     function resetScoreboard() {
-        scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
-        currentQuestionIndex = 0;
-        updateScoreboard();
-        displayQuestion();
+            scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+            currentQuestionIndex = 0;
+            updateScoreboard();
+            displayQuestion();
+        }
+        function resetUserProgress() {
+        firebase.database().ref('users/' + userID).set({
+            totalAttempted: 0,
+            correctAnswers: 0,
+            wrongAnswers: 0,
+            lastQuestionIndex: 0
+        }).then(() => {
+            alert("Progress reset successfully.");
+            scoreData = { totalAttempted: 0, correctAnswers: 0, wrongAnswers: 0 };
+            currentQuestionIndex = 0;
+            updateScoreboard();
+            displayQuestion();
+        });
     }
+
 
 
 
